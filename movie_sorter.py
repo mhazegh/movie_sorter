@@ -160,8 +160,7 @@ def sort_movies(movie_dict, genre='All', score_type='critics_score'):
 
 
 def build_dict(directory='.'):
-    # Load previous dictionary.
-    movie_dict = json.load(open('movie_data.json', 'r'))
+    movie_dict = {}
 
     # Get a list of movies in the specified directory.
     white_list = ('.avi', '.mp4')
