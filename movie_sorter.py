@@ -7,36 +7,43 @@ import json
 
 def main():
     parser = argparse.ArgumentParser(description=('Sort movies based on '
-                                                  'various criteria.'))
+                                                  'genre and score.'))
     parser.add_argument('-d',
                         '--directory',
                         default='.',
                         help=('Directory where movies are stored.'))
+    parser.add_argument('-g',
+                        '--genre',
+                        default='All',
+                        choices=['Action & Adventure',
+                                 'Animation',
+                                 'Comedy',
+                                 'Documentary',
+                                 'Drama',
+                                 'Horror',
+                                 'Mystery & Suspense',
+                                 'Romance',
+                                 'Science Fiction & Fantasy',
+                                 'All'],
+                        help='Genre to sort by.')
     parser.add_argument('-s',
-                        '--sort',
-                        default='score',
-                        choices=['score', 'genre'],
-                        help=('Sort by either rotten tomates '
-                              'score or genre.'))
+                        '--score_type',
+                        default='critics_score',
+                        choices=['critics_score',
+                                 'audience_score'],
+                        help='Which type of score to rank by.')
     args = parser.parse_args()
 
     if 'movie_data.json' in os.listdir('.'):
         movie_dict = json.load(open('movie_data.json', 'r'))
-        sort_movies(movie_dict, args.sort)
+        sort_movies(movie_dict, args.genre, args.score_type)
     else:
         movie_dict = build_dict(args.directory)
-        sort_movies(movie_dict, args.sort)
+        sort_movies(movie_dict, args.genre, args.score_type)
 
 
-def sort_movies(movie_dict, sort_key='score'):
-    if sort_key == 'score':
-        # Print out a list of movies sorted by score.
-        for movie in sorted(movie_dict.items(),
-                            key=lambda (k, v): v["critics_score"],
-                            reverse=True):
-            print movie[1]['title'], movie[1]['critics_score']
-
-    elif sort_key == 'genre':
+def sort_movies(movie_dict, genre='All', score_type='critics_score'):
+    if genre == 'All':
         # For each genre, print out movies that belong to that genre
         # and their scores.
         action_and_adventure = []
@@ -61,28 +68,28 @@ def sort_movies(movie_dict, sort_key='score'):
 
         # Iterate through the dictionary once and classify each movie.
         for movie in sorted(movie_dict.items(),
-                            key=lambda (k, v): v["critics_score"],
+                            key=lambda (k, v): v[score_type],
                             reverse=True):
             if action_and_adventure_str in movie[1]['genres']:
                 action_and_adventure.append((movie[1]['title'],
-                                             movie[1]['critics_score']))
+                                             movie[1][score_type]))
             if animation_str in movie[1]['genres']:
-                animation.append((movie[1]['title'], movie[1]['critics_score']))
+                animation.append((movie[1]['title'], movie[1][score_type]))
             if comedy_str in movie[1]['genres']:
-                comedy.append((movie[1]['title'], movie[1]['critics_score']))
+                comedy.append((movie[1]['title'], movie[1][score_type]))
             if documentary_str in movie[1]['genres']:
-                documentary.append((movie[1]['title'], movie[1]['critics_score']))
+                documentary.append((movie[1]['title'], movie[1][score_type]))
             if drama_str in movie[1]['genres']:
-                drama.append((movie[1]['title'], movie[1]['critics_score']))
+                drama.append((movie[1]['title'], movie[1][score_type]))
             if horror_str in movie[1]['genres']:
-                horror.append((movie[1]['title'], movie[1]['critics_score']))
+                horror.append((movie[1]['title'], movie[1][score_type]))
             if mystery_and_suspense_str in movie[1]['genres']:
                 mystery_and_suspense.append((movie[1]['title'],
-                                             movie[1]['critics_score']))
+                                             movie[1][score_type]))
             if romance_str in movie[1]['genres']:
-                romance.append((movie[1]['title'], movie[1]['critics_score']))
+                romance.append((movie[1]['title'], movie[1][score_type]))
             if scifi_str in movie[1]['genres']:
-                scifi.append((movie[1]['title'], movie[1]['critics_score']))
+                scifi.append((movie[1]['title'], movie[1][score_type]))
 
         print '-'*50
         print action_and_adventure_str
@@ -137,6 +144,20 @@ def sort_movies(movie_dict, sort_key='score'):
         print '-'*50
         for tup in scifi:
             print '\t {0} {1}'.format(tup[0], tup[1])
+    else:
+        matching_movies = []
+        for movie in sorted(movie_dict.items(),
+                            key=lambda (k, v): v[score_type],
+                            reverse=True):
+            if genre in movie[1]['genres']:
+                matching_movies.append((movie[1]['title'],
+                                        movie[1][score_type]))
+        print '-'*50
+        print genre
+        print '-'*50
+        for tup in matching_movies:
+            print '\t {0} {1}'.format(tup[0], tup[1])
+
 
 def build_dict(directory='.'):
     # Load previous dictionary.
