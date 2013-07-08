@@ -10,10 +10,11 @@ def main():
                                                   'various criteria.'))
     parser.add_argument('-d',
                         '--directory',
-                        required=True,
+                        default='.',
                         help=('Directory where movies are stored.'))
     parser.add_argument('-s',
                         '--sort',
+                        default='score',
                         choices=['score', 'genre'],
                         help=('Sort by either rotten tomates '
                               'score or genre.'))
@@ -23,7 +24,7 @@ def main():
         movie_dict = json.load(open('movie_data.json', 'r'))
         sort_movies(movie_dict, args.sort)
     else:
-        movie_dict = build_dict(args.directory, args.sort)
+        movie_dict = build_dict(args.directory)
         sort_movies(movie_dict, args.sort)
 
 
@@ -39,16 +40,24 @@ def sort_movies(movie_dict, sort_key='score'):
         # For each genre, print out movies that belong to that genre
         # and their scores.
         action_and_adventure = []
+        animation = []
         comedy = []
+        documentary = []
         drama = []
         horror = []
         mystery_and_suspense = []
+        romance = []
+        scifi = []
 
         action_and_adventure_str = 'Action & Adventure'
+        animation_str = 'Animation'
         comedy_str = 'Comedy'
+        documentary_str = 'Documentary'
         drama_str = 'Drama'
         horror_str = 'Horror'
         mystery_and_suspense_str = 'Mystery & Suspense'
+        romance_str = 'Romance'
+        scifi_str = 'Science Fiction & Fantasy'
 
         # Iterate through the dictionary once and classify each movie.
         for movie in sorted(movie_dict.items(),
@@ -57,8 +66,12 @@ def sort_movies(movie_dict, sort_key='score'):
             if action_and_adventure_str in movie[1]['genres']:
                 action_and_adventure.append((movie[1]['title'],
                                              movie[1]['critics_score']))
+            if animation_str in movie[1]['genres']:
+                animation.append((movie[1]['title'], movie[1]['critics_score']))
             if comedy_str in movie[1]['genres']:
                 comedy.append((movie[1]['title'], movie[1]['critics_score']))
+            if documentary_str in movie[1]['genres']:
+                documentary.append((movie[1]['title'], movie[1]['critics_score']))
             if drama_str in movie[1]['genres']:
                 drama.append((movie[1]['title'], movie[1]['critics_score']))
             if horror_str in movie[1]['genres']:
@@ -66,6 +79,10 @@ def sort_movies(movie_dict, sort_key='score'):
             if mystery_and_suspense_str in movie[1]['genres']:
                 mystery_and_suspense.append((movie[1]['title'],
                                              movie[1]['critics_score']))
+            if romance_str in movie[1]['genres']:
+                romance.append((movie[1]['title'], movie[1]['critics_score']))
+            if scifi_str in movie[1]['genres']:
+                scifi.append((movie[1]['title'], movie[1]['critics_score']))
 
         print '-'*50
         print action_and_adventure_str
@@ -74,9 +91,21 @@ def sort_movies(movie_dict, sort_key='score'):
             print '\t {0} {1}'.format(tup[0], tup[1])
 
         print '-'*50
+        print animation_str
+        print '-'*50
+        for tup in animation:
+            print '\t {0} {1}'.format(tup[0], tup[1])
+
+        print '-'*50
         print comedy_str
         print '-'*50
         for tup in comedy:
+            print '\t {0} {1}'.format(tup[0], tup[1])
+
+        print '-'*50
+        print documentary_str
+        print '-'*50
+        for tup in documentary:
             print '\t {0} {1}'.format(tup[0], tup[1])
 
         print '-'*50
@@ -97,8 +126,19 @@ def sort_movies(movie_dict, sort_key='score'):
         for tup in mystery_and_suspense:
             print '\t {0} {1}'.format(tup[0], tup[1])
 
+        print '-'*50
+        print romance_str
+        print '-'*50
+        for tup in romance:
+            print '\t {0} {1}'.format(tup[0], tup[1])
+        print '-'*50
 
-def build_dict(directory):
+        print scifi_str
+        print '-'*50
+        for tup in scifi:
+            print '\t {0} {1}'.format(tup[0], tup[1])
+
+def build_dict(directory='.'):
     # Load previous dictionary.
     movie_dict = json.load(open('movie_data.json', 'r'))
 
@@ -116,9 +156,9 @@ def build_dict(directory):
             url = ('http://api.rottentomatoes.com/api/'
                    'public/v1.0/movies.json?apikey={0}'
                    '&q={1}&page_limit=1'.format(key, cleaned_movie))
-            response = urllib2.urlopen(url)
-            data = json.load(response)
             try:
+                response = urllib2.urlopen(url)
+                data = json.load(response)
                 id = data['movies'][0]['id']
                 title = data['movies'][0]['title']
                 critics_score = data['movies'][0]['ratings']['critics_score']
@@ -129,6 +169,8 @@ def build_dict(directory):
                                      'audience_score': audience_score}
             except IndexError:
                 print 'Could not find {}'.format(movie)
+            except urllib2.URLError:
+                print 'Error fectching data for {}'.format(movie)
 
     # Loop through the movies again to get their genre.
     # We have to use the 'id' found in the previous query to
@@ -137,13 +179,15 @@ def build_dict(directory):
         url = ('http://api.rottentomatoes.com/api/'
                'public/v1.0/movies/'
                '{0}.json?apikey={1}'.format(movie_dict[movie]['id'], key))
-        response = urllib2.urlopen(url)
-        data = json.load(response)
         try:
+            response = urllib2.urlopen(url)
+            data = json.load(response)
             genres = data['genres']
             movie_dict[movie]['genres'] = genres
         except IndexError:
             print 'Could not get genre for {}'.format(movie)
+        except urllib2.URLError:
+            print 'Error fectching data for {}'.format(movie)
 
     # Dump our updated movie dictionary to a .json file.
     with open('movie_data.json', 'wa') as fp:
