@@ -1,0 +1,5591 @@
+{
+    "Lake Mungo": {
+        "critics_score": 93, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 60, 
+        "id": "770805137", 
+        "title": "Lake Mungo"
+    }, 
+    "Yes Man": {
+        "critics_score": 45, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 72, 
+        "id": "770682011", 
+        "title": "Yes Man"
+    }, 
+    "Gremlins": {
+        "critics_score": 83, 
+        "genres": [
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 70, 
+        "id": "12357", 
+        "title": "Gremlins"
+    }, 
+    "Cool Runnings": {
+        "critics_score": 74, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 77, 
+        "id": "10237", 
+        "title": "Cool Runnings"
+    }, 
+    "Batman and Robin": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Kids & Family", 
+            "Mystery & Suspense", 
+            "Classics", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 57, 
+        "id": "770672711", 
+        "title": "The Batman (An Evening with Batman and Robin)"
+    }, 
+    "Fight Club": {
+        "critics_score": 81, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 95, 
+        "id": "13153", 
+        "title": "Fight Club"
+    }, 
+    "The Crazies": {
+        "critics_score": 71, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 55, 
+        "id": "770805222", 
+        "title": "The Crazies"
+    }, 
+    "The Road": {
+        "critics_score": 75, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 65, 
+        "id": "770782192", 
+        "title": "The Road"
+    }, 
+    "Lady In The Water": {
+        "critics_score": 24, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 54, 
+        "id": "190815951", 
+        "title": "Lady in the Water"
+    }, 
+    "Run Fat Boy Run": {
+        "critics_score": 48, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 65, 
+        "id": "770670572", 
+        "title": "Run Fatboy Run"
+    }, 
+    "Graveyard Shift": {
+        "critics_score": 13, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 31, 
+        "id": "14994", 
+        "title": "Graveyard Shift"
+    }, 
+    "Citizen Kane": {
+        "critics_score": 100, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Classics"
+        ], 
+        "audience_score": 91, 
+        "id": "10074", 
+        "title": "Citizen Kane"
+    }, 
+    "Bolt": {
+        "critics_score": 88, 
+        "genres": [
+            "Action & Adventure", 
+            "Animation", 
+            "Comedy"
+        ], 
+        "audience_score": 76, 
+        "id": "770681835", 
+        "title": "Bolt"
+    }, 
+    "Argo": {
+        "critics_score": 96, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 93, 
+        "id": "771256128", 
+        "title": "Argo"
+    }, 
+    "Wall-E": {
+        "critics_score": 96, 
+        "genres": [
+            "Action & Adventure", 
+            "Animation", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 89, 
+        "id": "770671491", 
+        "title": "WALL-E"
+    }, 
+    "Precious": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 80, 
+        "id": "770803691", 
+        "title": "Precious: Based on the Novel Push by Sapphire"
+    }, 
+    "Rio Bravo": {
+        "critics_score": 100, 
+        "genres": [
+            "Western", 
+            "Action & Adventure", 
+            "Classics"
+        ], 
+        "audience_score": 89, 
+        "id": "17040", 
+        "title": "Rio Bravo"
+    }, 
+    "Up In The Air": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Comedy"
+        ], 
+        "audience_score": 76, 
+        "id": "770790933", 
+        "title": "Up in the Air"
+    }, 
+    "Star Wars Episode I The Phantom Menace": {
+        "critics_score": 57, 
+        "genres": [
+            "Kids & Family", 
+            "Science Fiction & Fantasy", 
+            "Cult Movies"
+        ], 
+        "audience_score": 62, 
+        "id": "10008", 
+        "title": "Star Wars: Episode I - The Phantom Menace"
+    }, 
+    "From Dusk Till Dawn": {
+        "critics_score": 64, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 75, 
+        "id": "12984", 
+        "title": "From Dusk Till Dawn"
+    }, 
+    "The River King": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 37, 
+        "id": "120398478", 
+        "title": "The River King"
+    }, 
+    "Back to the Future": {
+        "critics_score": 96, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 88, 
+        "id": "23532", 
+        "title": "Back to the Future"
+    }, 
+    "High Tension": {
+        "critics_score": 41, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Art House & International"
+        ], 
+        "audience_score": 67, 
+        "id": "15470", 
+        "title": "High Tension (Switchblade Romance)"
+    }, 
+    "Penny Dreadful": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 40, 
+        "id": "398053893", 
+        "title": "Penny Dreadful"
+    }, 
+    "Bride of Re-Animator": {
+        "critics_score": 47, 
+        "genres": [
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 50, 
+        "id": "15904", 
+        "title": "The Bride of Re-Animator"
+    }, 
+    "The Onion Movie": {
+        "critics_score": -1, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 46, 
+        "id": "770764124", 
+        "title": "The Onion Movie"
+    }, 
+    "Whip It": {
+        "critics_score": 84, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 72, 
+        "id": "770785797", 
+        "title": "Whip It"
+    }, 
+    "Hannibal": {
+        "critics_score": 15, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 61, 
+        "id": "463044103", 
+        "title": "Hannibal Rising"
+    }, 
+    "The Last Exorcism": {
+        "critics_score": 73, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 33, 
+        "id": "770874813", 
+        "title": "The Last Exorcism"
+    }, 
+    "Super Troopers": {
+        "critics_score": 35, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 89, 
+        "id": "16008", 
+        "title": "Super Troopers"
+    }, 
+    "Dude, Where's My Car": {
+        "critics_score": 18, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 52, 
+        "id": "12758", 
+        "title": "Dude, Where's My Car?"
+    }, 
+    "Requiem for a Dream": {
+        "critics_score": 78, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 93, 
+        "id": "17949", 
+        "title": "Requiem for a Dream"
+    }, 
+    "Mulholland Dr.": {
+        "critics_score": 81, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Special Interest"
+        ], 
+        "audience_score": 88, 
+        "id": "12960", 
+        "title": "Mulholland Drive"
+    }, 
+    "Primer": {
+        "critics_score": 73, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 79, 
+        "id": "10447", 
+        "title": "Primer"
+    }, 
+    "Severance": {
+        "critics_score": 64, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Comedy"
+        ], 
+        "audience_score": 61, 
+        "id": "299771637", 
+        "title": "Severance"
+    }, 
+    "Prom Night": {
+        "critics_score": 8, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 46, 
+        "id": "770680887", 
+        "title": "Prom Night"
+    }, 
+    "Rec": {
+        "critics_score": 31, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 47, 
+        "id": "771190127", 
+        "title": "Total Recall"
+    }, 
+    "Pirates of Silicon Valley": {
+        "critics_score": 86, 
+        "genres": [
+            "Drama", 
+            "Television"
+        ], 
+        "audience_score": 74, 
+        "id": "16983", 
+        "title": "Pirates of Silicon Valley"
+    }, 
+    "Total Recall": {
+        "critics_score": 31, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 47, 
+        "id": "771190127", 
+        "title": "Total Recall"
+    }, 
+    "Red": {
+        "critics_score": 72, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Comedy"
+        ], 
+        "audience_score": 72, 
+        "id": "770860164", 
+        "title": "Red"
+    }, 
+    "Lucky #Sleven": {
+        "critics_score": 20, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 67, 
+        "id": "771252920", 
+        "title": "The Lucky One"
+    }, 
+    "Trick 'r Treat": {
+        "critics_score": 85, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 68, 
+        "id": "563122405", 
+        "title": "Trick 'r Treat"
+    }, 
+    "Red Dragon": {
+        "critics_score": 68, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 74, 
+        "id": "13084", 
+        "title": "Red Dragon"
+    }, 
+    "1408": {
+        "critics_score": 78, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 61, 
+        "id": "512890937", 
+        "title": "1408"
+    }, 
+    "Attack the Block": {
+        "critics_score": 90, 
+        "genres": [
+            "Art House & International", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 73, 
+        "id": "771203801", 
+        "title": "Attack the Block"
+    }, 
+    "Star Wars Episode II Attack of the Clones": {
+        "critics_score": 67, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Cult Movies"
+        ], 
+        "audience_score": 84, 
+        "id": "10009", 
+        "title": "Star Wars: Episode II - Attack of the Clones 3D"
+    }, 
+    "An American Haunting": {
+        "critics_score": 12, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 47, 
+        "id": "130556995", 
+        "title": "An American Haunting"
+    }, 
+    "Autopsy": {
+        "critics_score": 83, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 49, 
+        "id": "149092327", 
+        "title": "Alien Autopsy"
+    }, 
+    "The Social Network": {
+        "critics_score": 96, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 89, 
+        "id": "770857927", 
+        "title": "The Social Network"
+    }, 
+    "Duel": {
+        "critics_score": 86, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Television"
+        ], 
+        "audience_score": 80, 
+        "id": "10431", 
+        "title": "Duel"
+    }, 
+    "The Echo": {
+        "critics_score": -1, 
+        "genres": [
+            "Musical & Performing Arts", 
+            "Special Interest"
+        ], 
+        "audience_score": 0, 
+        "id": "771357464", 
+        "title": "Josh Groban: All That Echoes Artist Cut"
+    }, 
+    "The Last Samurai": {
+        "critics_score": 65, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 82, 
+        "id": "133039558", 
+        "title": "The Last Samurai"
+    }, 
+    "Heavy Metal in Baghdad": {
+        "critics_score": 83, 
+        "genres": [
+            "Documentary", 
+            "Musical & Performing Arts", 
+            "Special Interest"
+        ], 
+        "audience_score": 82, 
+        "id": "770761729", 
+        "title": "Heavy Metal in Baghdad"
+    }, 
+    "Jeepers Creepers": {
+        "critics_score": 23, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 53, 
+        "id": "13400", 
+        "title": "Jeepers Creepers 2"
+    }, 
+    "Foot Fist Way": {
+        "critics_score": 53, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 45, 
+        "id": "770685313", 
+        "title": "The Foot Fist Way"
+    }, 
+    "The Children": {
+        "critics_score": 33, 
+        "genres": [
+            "Action & Adventure", 
+            "Animation", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 86, 
+        "id": "8468143", 
+        "title": "Final Fantasy VII - Advent Children"
+    }, 
+    "Paranormal Activity": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 87, 
+        "id": "771321977", 
+        "title": "Paranormal Activity V"
+    }, 
+    "UHF": {
+        "critics_score": 57, 
+        "genres": [
+            "Television", 
+            "Comedy"
+        ], 
+        "audience_score": 71, 
+        "id": "10525", 
+        "title": "UHF"
+    }, 
+    "Downfall": {
+        "critics_score": 91, 
+        "genres": [
+            "Art House & International", 
+            "Drama"
+        ], 
+        "audience_score": 92, 
+        "id": "12853", 
+        "title": "Downfall (Der Untergang)"
+    }, 
+    "Little Miss Sunshine": {
+        "critics_score": 91, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 90, 
+        "id": "190816246", 
+        "title": "Little Miss Sunshine"
+    }, 
+    "Apollo 18": {
+        "critics_score": 24, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Horror"
+        ], 
+        "audience_score": 23, 
+        "id": "771219507", 
+        "title": "Apollo 18"
+    }, 
+    "Alien": {
+        "critics_score": -1, 
+        "genres": [
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 0, 
+        "id": "771358562", 
+        "title": "Alien Uprising"
+    }, 
+    "Dead End": {
+        "critics_score": 78, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 50, 
+        "id": "563089248", 
+        "title": "Wrong Turn 2: Dead End"
+    }, 
+    "Life Aquatic with Steve Zissou": {
+        "critics_score": 53, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 82, 
+        "id": "12895", 
+        "title": "The Life Aquatic with Steve Zissou"
+    }, 
+    "The Reef": {
+        "critics_score": 20, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 26, 
+        "id": "770805591", 
+        "title": "Into the Blue 2: The Reef"
+    }, 
+    "Little Fockers": {
+        "critics_score": 10, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 38, 
+        "id": "770685374", 
+        "title": "Little Fockers"
+    }, 
+    "Devil": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 50, 
+        "id": "771322499", 
+        "title": "Devil's Rapture"
+    }, 
+    "Four Lions": {
+        "critics_score": 82, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 78, 
+        "id": "770813276", 
+        "title": "Four Lions"
+    }, 
+    "Pauly Shore Is Dead": {
+        "critics_score": 62, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 28, 
+        "id": "151436445", 
+        "title": "Pauly Shore is Dead"
+    }, 
+    "War Of The Worlds": {
+        "critics_score": 74, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 45, 
+        "id": "1789", 
+        "title": "War of the Worlds"
+    }, 
+    "The Woman In Black": {
+        "critics_score": 65, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 55, 
+        "id": "771221353", 
+        "title": "The Woman in Black"
+    }, 
+    "Creepshow": {
+        "critics_score": 69, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 67, 
+        "id": "13487", 
+        "title": "Creepshow"
+    }, 
+    "Say Anything": {
+        "critics_score": 98, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Comedy"
+        ], 
+        "audience_score": 82, 
+        "id": "10151", 
+        "title": "Say Anything..."
+    }, 
+    "Law Abiding Citizen": {
+        "critics_score": 25, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 77, 
+        "id": "770804709", 
+        "title": "Law Abiding Citizen"
+    }, 
+    "Frost-Nixon": {
+        "critics_score": 92, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 86, 
+        "id": "770682018", 
+        "title": "Frost/Nixon"
+    }, 
+    "Winter's Bone": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 74, 
+        "id": "770856649", 
+        "title": "Winter's Bone"
+    }, 
+    "Jurassic Park": {
+        "critics_score": 92, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 83, 
+        "id": "10983", 
+        "title": "Jurassic Park"
+    }, 
+    "Event Horizon": {
+        "critics_score": 22, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Horror"
+        ], 
+        "audience_score": 61, 
+        "id": "13353", 
+        "title": "Event Horizon"
+    }, 
+    "Obsessed": {
+        "critics_score": 19, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 50, 
+        "id": "770785661", 
+        "title": "Obsessed"
+    }, 
+    "Dreamcatcher": {
+        "critics_score": 30, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 43, 
+        "id": "13790", 
+        "title": "Dreamcatcher"
+    }, 
+    "Terminator 3": {
+        "critics_score": 70, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 54, 
+        "id": "13049", 
+        "title": "Terminator 3 - Rise of the Machines"
+    }, 
+    "Terminator 2": {
+        "critics_score": 98, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 88, 
+        "id": "14016", 
+        "title": "Terminator 2: Judgment Day"
+    }, 
+    "Finishing The Game": {
+        "critics_score": 35, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 45, 
+        "id": "528346444", 
+        "title": "Finishing the Game"
+    }, 
+    "The Running Man": {
+        "critics_score": 61, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 59, 
+        "id": "16785", 
+        "title": "The Running Man"
+    }, 
+    "Last House On The Left": {
+        "critics_score": 41, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 55, 
+        "id": "770782245", 
+        "title": "The Last House on the Left"
+    }, 
+    "Legion": {
+        "critics_score": 20, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 36, 
+        "id": "770784236", 
+        "title": "Legion"
+    }, 
+    "Dark Ride": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 35, 
+        "id": "398053878", 
+        "title": "Dark Ride"
+    }, 
+    "I Love You Man": {
+        "critics_score": 83, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 72, 
+        "id": "770685290", 
+        "title": "I Love You, Man"
+    }, 
+    "You Don't Mess With The Zohan": {
+        "critics_score": 37, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 50, 
+        "id": "770671938", 
+        "title": "You Don't Mess with the Zohan"
+    }, 
+    "Gran Torino": {
+        "critics_score": 79, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 90, 
+        "id": "770785728", 
+        "title": "Gran Torino"
+    }, 
+    "The Emperor's New Groove": {
+        "critics_score": 85, 
+        "genres": [
+            "Animation", 
+            "Kids & Family", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 75, 
+        "id": "9457", 
+        "title": "The Emperor's New Groove"
+    }, 
+    "Don't Be Afraid of the Dark": {
+        "critics_score": 58, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 34, 
+        "id": "770875156", 
+        "title": "Don't Be Afraid Of The Dark"
+    }, 
+    "Feast": {
+        "critics_score": 39, 
+        "genres": [
+            "Drama", 
+            "Romance"
+        ], 
+        "audience_score": 55, 
+        "id": "770671899", 
+        "title": "Feast of Love"
+    }, 
+    "Battle Los Angeles": {
+        "critics_score": 35, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 49, 
+        "id": "770815449", 
+        "title": "Battle: Los Angeles"
+    }, 
+    "Evil Dead II": {
+        "critics_score": 98, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 86, 
+        "id": "98831005", 
+        "title": "Evil Dead 2"
+    }, 
+    "Jingle All The Way": {
+        "critics_score": 17, 
+        "genres": [
+            "Comedy", 
+            "Kids & Family"
+        ], 
+        "audience_score": 42, 
+        "id": "10318", 
+        "title": "Jingle All the Way"
+    }, 
+    "Waltz With Bashir": {
+        "critics_score": 96, 
+        "genres": [
+            "Documentary", 
+            "Animation", 
+            "Art House & International", 
+            "Special Interest"
+        ], 
+        "audience_score": 89, 
+        "id": "770770030", 
+        "title": "Waltz with Bashir"
+    }, 
+    "Cast Away": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 80, 
+        "id": "12777", 
+        "title": "Cast Away"
+    }, 
+    "The Patriot": {
+        "critics_score": 62, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 80, 
+        "id": "12954", 
+        "title": "The Patriot"
+    }, 
+    "Old Boy": {
+        "critics_score": -1, 
+        "genres": [
+            "Western", 
+            "Drama"
+        ], 
+        "audience_score": 50, 
+        "id": "770914513", 
+        "title": "Good Old Boys"
+    }, 
+    "Ink": {
+        "critics_score": 39, 
+        "genres": [
+            "Action & Adventure", 
+            "Kids & Family", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 49, 
+        "id": "770673032", 
+        "title": "Inkheart"
+    }, 
+    "Live Free Or Die": {
+        "critics_score": 81, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 86, 
+        "id": "494020502", 
+        "title": "Live Free or Die Hard"
+    }, 
+    "Toy Story 3": {
+        "critics_score": 99, 
+        "genres": [
+            "Animation", 
+            "Kids & Family", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 91, 
+        "id": "770672122", 
+        "title": "Toy Story 3"
+    }, 
+    "Real Genius": {
+        "critics_score": 74, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 77, 
+        "id": "10142", 
+        "title": "Real Genius"
+    }, 
+    "Be Kind Rewind": {
+        "critics_score": 66, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 57, 
+        "id": "770670660", 
+        "title": "Be Kind Rewind"
+    }, 
+    "Silent Hill": {
+        "critics_score": 29, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror"
+        ], 
+        "audience_score": 65, 
+        "id": "150164942", 
+        "title": "Silent Hill"
+    }, 
+    "Super 8": {
+        "critics_score": 82, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 78, 
+        "id": "771041011", 
+        "title": "Super 8"
+    }, 
+    "Nightmare On Elm Street": {
+        "critics_score": 15, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 39, 
+        "id": "770785488", 
+        "title": "A Nightmare on Elm Street"
+    }, 
+    "Cabin Fever 2": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 16, 
+        "id": "770783481", 
+        "title": "Cabin Fever 2: Spring Fever"
+    }, 
+    "The Amityville Horror": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 82, 
+        "id": "771243734", 
+        "title": "The Amityville Horror: The Lost Tapes"
+    }, 
+    "Back to the Future Part II": {
+        "critics_score": 64, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 80, 
+        "id": "23533", 
+        "title": "Back to the Future Part II"
+    }, 
+    "The Princess Bride": {
+        "critics_score": 97, 
+        "genres": [
+            "Action & Adventure", 
+            "Kids & Family", 
+            "Romance", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 92, 
+        "id": "12686", 
+        "title": "The Princess Bride"
+    }, 
+    "They Live": {
+        "critics_score": 89, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 76, 
+        "id": "15716", 
+        "title": "They Live"
+    }, 
+    "Prometheus": {
+        "critics_score": 74, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Horror", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 72, 
+        "id": "771228969", 
+        "title": "Prometheus"
+    }, 
+    "The Orphanage": {
+        "critics_score": 86, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 85, 
+        "id": "770671525", 
+        "title": "El Orfanato (The Orphanage)"
+    }, 
+    "Lost In Translation": {
+        "critics_score": 95, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 84, 
+        "id": "12972", 
+        "title": "Lost In Translation"
+    }, 
+    "Horrible Bosses": {
+        "critics_score": 69, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 71, 
+        "id": "771041149", 
+        "title": "Horrible Bosses"
+    }, 
+    "Hard Rain": {
+        "critics_score": 25, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 36, 
+        "id": "14947", 
+        "title": "Hard Rain"
+    }, 
+    "The Invention of Lying": {
+        "critics_score": 57, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 47, 
+        "id": "770717076", 
+        "title": "The Invention of Lying"
+    }, 
+    "The Jacket": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 93, 
+        "id": "16673", 
+        "title": "Full Metal Jacket"
+    }, 
+    "Joy Ride 2": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 30, 
+        "id": "770784235", 
+        "title": "Joy Ride 2: Dead Ahead"
+    }, 
+    "Anchorman - The Legend of Ron Burgundy": {
+        "critics_score": 66, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 84, 
+        "id": "16978", 
+        "title": "Anchorman - The Legend Of Ron Burgundy"
+    }, 
+    "State Of Play": {
+        "critics_score": 84, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 71, 
+        "id": "770770175", 
+        "title": "State of Play"
+    }, 
+    "The Collector": {
+        "critics_score": 28, 
+        "genres": [
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 68, 
+        "id": "13446", 
+        "title": "The Bone Collector"
+    }, 
+    "Death Proof": {
+        "critics_score": 67, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 73, 
+        "id": "745781820", 
+        "title": "Death Proof"
+    }, 
+    "Sphere": {
+        "critics_score": 12, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 38, 
+        "id": "11101", 
+        "title": "Sphere"
+    }, 
+    "Back to the Future Part III": {
+        "critics_score": 73, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 74, 
+        "id": "23534", 
+        "title": "Back to the Future Part III"
+    }, 
+    "Signs": {
+        "critics_score": 74, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 65, 
+        "id": "10253", 
+        "title": "Signs"
+    }, 
+    "The Green Hornet": {
+        "critics_score": 44, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 47, 
+        "id": "770678817", 
+        "title": "The Green Hornet"
+    }, 
+    "Blade Runner": {
+        "critics_score": 92, 
+        "genres": [
+            "Drama", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 89, 
+        "id": "12886", 
+        "title": "Blade Runner"
+    }, 
+    "Iron Man": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 91, 
+        "id": "714976247", 
+        "title": "Iron Man"
+    }, 
+    "Flushed Away": {
+        "critics_score": 72, 
+        "genres": [
+            "Animation", 
+            "Kids & Family", 
+            "Comedy"
+        ], 
+        "audience_score": 68, 
+        "id": "353672939", 
+        "title": "Flushed Away"
+    }, 
+    "2001 A Space Odyssey": {
+        "critics_score": 96, 
+        "genres": [
+            "Classics", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 86, 
+        "id": "9917", 
+        "title": "2001: A Space Odyssey"
+    }, 
+    "The Hitcher": {
+        "critics_score": 21, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 59, 
+        "id": "437925606", 
+        "title": "The Hitcher"
+    }, 
+    "Repo Men": {
+        "critics_score": 22, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 42, 
+        "id": "770740143", 
+        "title": "Repo Men"
+    }, 
+    "Reservoir Dogs": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 93, 
+        "id": "14978", 
+        "title": "Reservoir Dogs"
+    }, 
+    "Piranha": {
+        "critics_score": 73, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Comedy"
+        ], 
+        "audience_score": 44, 
+        "id": "770675849", 
+        "title": "Piranha 3-D"
+    }, 
+    "Surveillance": {
+        "critics_score": 54, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 43, 
+        "id": "770685686", 
+        "title": "Surveillance"
+    }, 
+    "Rise of the Planet of the Apes": {
+        "critics_score": 82, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 87, 
+        "id": "771041147", 
+        "title": "Rise of the Planet of the Apes"
+    }, 
+    "The Ladykillers": {
+        "critics_score": 55, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 40, 
+        "id": "14905", 
+        "title": "The Ladykillers"
+    }, 
+    "Taxi to the Dark Side": {
+        "critics_score": 100, 
+        "genres": [
+            "Documentary", 
+            "Special Interest"
+        ], 
+        "audience_score": 87, 
+        "id": "770674670", 
+        "title": "Taxi to the Dark Side"
+    }, 
+    "Blair Witch 2": {
+        "critics_score": 13, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 23, 
+        "id": "15358", 
+        "title": "Book of Shadows - Blair Witch 2"
+    }, 
+    "Collateral": {
+        "critics_score": 86, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 79, 
+        "id": "12909", 
+        "title": "Collateral"
+    }, 
+    "Our Idiot Brother": {
+        "critics_score": 67, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 52, 
+        "id": "771224856", 
+        "title": "Our Idiot Brother"
+    }, 
+    "The House Of The Devil": {
+        "critics_score": 86, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 57, 
+        "id": "770806327", 
+        "title": "The House of the Devil"
+    }, 
+    "Paul Blart Mall Cop": {
+        "critics_score": 33, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 50, 
+        "id": "770782196", 
+        "title": "Paul Blart: Mall Cop"
+    }, 
+    "Splinter": {
+        "critics_score": 71, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 47, 
+        "id": "770792600", 
+        "title": "Splinter"
+    }, 
+    "The Last Crusade": {
+        "critics_score": 89, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 91, 
+        "id": "23531", 
+        "title": "Indiana Jones and the Last Crusade"
+    }, 
+    "The Dead Zone": {
+        "critics_score": 89, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 72, 
+        "id": "13367", 
+        "title": "The Dead Zone"
+    }, 
+    "Defiance": {
+        "critics_score": 57, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 73, 
+        "id": "770682436", 
+        "title": "Defiance"
+    }, 
+    "Suicide Kings": {
+        "critics_score": 34, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Comedy"
+        ], 
+        "audience_score": 70, 
+        "id": "15750", 
+        "title": "Suicide Kings"
+    }, 
+    "The Wicker Man": {
+        "critics_score": 15, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 26, 
+        "id": "287864910", 
+        "title": "The Wicker Man"
+    }, 
+    "2012": {
+        "critics_score": 39, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 63, 
+        "id": "770795544", 
+        "title": "2012"
+    }, 
+    "Hot Tub Time Machine": {
+        "critics_score": 63, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 56, 
+        "id": "770813651", 
+        "title": "Hot Tub Time Machine"
+    }, 
+    "Jackass 3D": {
+        "critics_score": 63, 
+        "genres": [
+            "Documentary", 
+            "Comedy"
+        ], 
+        "audience_score": 83, 
+        "id": "287865350", 
+        "title": "Jackass: Number Two"
+    }, 
+    "Due Date": {
+        "critics_score": 39, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 55, 
+        "id": "770814359", 
+        "title": "Due Date"
+    }, 
+    "Che Part Two": {
+        "critics_score": 80, 
+        "genres": [
+            "Art House & International", 
+            "Drama"
+        ], 
+        "audience_score": 66, 
+        "id": "770686043", 
+        "title": "Che: Part Two (Guerrilla)"
+    }, 
+    "The Cove": {
+        "critics_score": 3, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 68, 
+        "id": "287865019", 
+        "title": "The Covenant"
+    }, 
+    "Friday The 13th": {
+        "critics_score": 25, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 52, 
+        "id": "326391491", 
+        "title": "Friday the 13th"
+    }, 
+    "No Country For Old Men": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 84, 
+        "id": "770669872", 
+        "title": "No Country for Old Men"
+    }, 
+    "Jumanji": {
+        "critics_score": 50, 
+        "genres": [
+            "Action & Adventure", 
+            "Kids & Family", 
+            "Romance", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 61, 
+        "id": "12436", 
+        "title": "Jumanji"
+    }, 
+    "The Silence of the Lambs": {
+        "critics_score": 95, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 93, 
+        "id": "16286", 
+        "title": "The Silence of the Lambs"
+    }, 
+    "Scream": {
+        "critics_score": 58, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 55, 
+        "id": "770807411", 
+        "title": "Scream 4"
+    }, 
+    "Punching The Clown": {
+        "critics_score": 86, 
+        "genres": [
+            "Musical & Performing Arts", 
+            "Comedy"
+        ], 
+        "audience_score": 77, 
+        "id": "770808071", 
+        "title": "Punching the Clown"
+    }, 
+    "V For Vendetta": {
+        "critics_score": 73, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 88, 
+        "id": "112770454", 
+        "title": "V for Vendetta"
+    }, 
+    "Reign Over Me": {
+        "critics_score": 63, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 81, 
+        "id": "387409895", 
+        "title": "Reign Over Me"
+    }, 
+    "Hotrod": {
+        "critics_score": -1, 
+        "genres": [
+            "Special Interest"
+        ], 
+        "audience_score": 50, 
+        "id": "770977485", 
+        "title": "Hot Chick Hotrod - Stoner BBQ"
+    }, 
+    "Jacob's Ladder": {
+        "critics_score": 70, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 81, 
+        "id": "13210", 
+        "title": "Jacob's Ladder"
+    }, 
+    "Memento": {
+        "critics_score": 92, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 93, 
+        "id": "13052", 
+        "title": "Memento"
+    }, 
+    "The Evil Dead": {
+        "critics_score": 63, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 68, 
+        "id": "771264989", 
+        "title": "Evil Dead"
+    }, 
+    "Saw": {
+        "critics_score": 36, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 66, 
+        "id": "8918", 
+        "title": "Saw II"
+    }, 
+    "A Serious Man": {
+        "critics_score": 89, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 65, 
+        "id": "770785948", 
+        "title": "A Serious Man"
+    }, 
+    "Witness": {
+        "critics_score": 21, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 66, 
+        "id": "771268706", 
+        "title": "Madea's Witness Protection"
+    }, 
+    "Bridesmaids": {
+        "critics_score": 90, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 76, 
+        "id": "771039065", 
+        "title": "Bridesmaids"
+    }, 
+    "Slumdog Millionaire": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Romance"
+        ], 
+        "audience_score": 90, 
+        "id": "770770017", 
+        "title": "Slumdog Millionaire"
+    }, 
+    "Eternal Sunshine of The Spotless Mind": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 93, 
+        "id": "12860", 
+        "title": "Eternal Sunshine Of The Spotless Mind"
+    }, 
+    "Withnail and I": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 93, 
+        "id": "17331", 
+        "title": "Withnail and I"
+    }, 
+    "The Insider": {
+        "critics_score": 96, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 87, 
+        "id": "13136", 
+        "title": "The Insider"
+    }, 
+    "Phonebooth": {
+        "critics_score": 71, 
+        "genres": [
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 63, 
+        "id": "13499", 
+        "title": "Phone Booth"
+    }, 
+    "Nine Dead": {
+        "critics_score": 22, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 59, 
+        "id": "15188", 
+        "title": "Nine Dead Gay Guys (9 Dead Gay Guys)"
+    }, 
+    "The Haunting of #24": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 30, 
+        "id": "771355512", 
+        "title": "The Haunting of Helena"
+    }, 
+    "Cube 2 - Hypercube": {
+        "critics_score": 50, 
+        "genres": [
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 40, 
+        "id": "14148", 
+        "title": "Cube 2 - Hypercube"
+    }, 
+    "Dogtown and Z-Boys": {
+        "critics_score": 92, 
+        "genres": [
+            "Documentary", 
+            "Sports & Fitness"
+        ], 
+        "audience_score": 86, 
+        "id": "11563", 
+        "title": "Dogtown and Z-Boys"
+    }, 
+    "Source Code": {
+        "critics_score": 92, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 81, 
+        "id": "771174105", 
+        "title": "Source Code"
+    }, 
+    "i,Robot": {
+        "critics_score": 58, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 73, 
+        "id": "10040", 
+        "title": "I, Robot"
+    }, 
+    "Graveyard": {
+        "critics_score": 13, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 31, 
+        "id": "14994", 
+        "title": "Graveyard Shift"
+    }, 
+    "The Grudge 2": {
+        "critics_score": 10, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 57, 
+        "id": "314387262", 
+        "title": "The Grudge 2"
+    }, 
+    "Invasion Of The Body Snatchers": {
+        "critics_score": 95, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 73, 
+        "id": "10738", 
+        "title": "Invasion of the Body Snatchers"
+    }, 
+    "Gattaca": {
+        "critics_score": 82, 
+        "genres": [
+            "Drama", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 82, 
+        "id": "10356", 
+        "title": "Gattaca"
+    }, 
+    "Bus 174": {
+        "critics_score": 99, 
+        "genres": [
+            "Documentary", 
+            "Drama", 
+            "Art House & International", 
+            "Special Interest"
+        ], 
+        "audience_score": 87, 
+        "id": "14028", 
+        "title": "Bus 174 (Onibus 174)"
+    }, 
+    "The Band's Visit": {
+        "critics_score": 98, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Comedy"
+        ], 
+        "audience_score": 85, 
+        "id": "770672006", 
+        "title": "The Band's Visit (Bikur Ha-Tizmoret)"
+    }, 
+    "$5 A Day": {
+        "critics_score": -1, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 49, 
+        "id": "770790953", 
+        "title": "$5 a Day (Five Dollars a Day)"
+    }, 
+    "Eraserhead": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Special Interest"
+        ], 
+        "audience_score": 82, 
+        "id": "17042", 
+        "title": "Eraserhead"
+    }, 
+    "Paul": {
+        "critics_score": -1, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 67, 
+        "id": "771321461", 
+        "title": "Paulette"
+    }, 
+    "Fright Night": {
+        "critics_score": 72, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 60, 
+        "id": "771028776", 
+        "title": "Fright Night"
+    }, 
+    "Windcroft": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 26, 
+        "id": "770803526", 
+        "title": "Windcroft"
+    }, 
+    "Ping Pong Playa": {
+        "critics_score": 66, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Comedy"
+        ], 
+        "audience_score": 48, 
+        "id": "770677839", 
+        "title": "Ping Pong Playa"
+    }, 
+    "Nightmare Man": {
+        "critics_score": 56, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 18, 
+        "id": "770678803", 
+        "title": "Nightmare Man"
+    }, 
+    "Hannibal Rising": {
+        "critics_score": 15, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 61, 
+        "id": "463044103", 
+        "title": "Hannibal Rising"
+    }, 
+    "Night Of The Living Dead": {
+        "critics_score": 96, 
+        "genres": [
+            "Horror", 
+            "Classics", 
+            "Cult Movies"
+        ], 
+        "audience_score": 85, 
+        "id": "50375489", 
+        "title": "Night of the Living Dead"
+    }, 
+    "The Secrets of Jonathan Sperry": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 82, 
+        "id": "770804364", 
+        "title": "The Secrets of Jonathan Sperry"
+    }, 
+    "The Gift": {
+        "critics_score": 32, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 84, 
+        "id": "359855346", 
+        "title": "The Ultimate Gift"
+    }, 
+    "Dread": {
+        "critics_score": 29, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 43, 
+        "id": "15772", 
+        "title": "Club Dread"
+    }, 
+    "Brazil": {
+        "critics_score": 98, 
+        "genres": [
+            "Drama", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 89, 
+        "id": "13466", 
+        "title": "Brazil"
+    }, 
+    "Eden Lake": {
+        "critics_score": 83, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 65, 
+        "id": "770781362", 
+        "title": "Eden Lake"
+    }, 
+    "Observe And Report": {
+        "critics_score": 51, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 40, 
+        "id": "770801896", 
+        "title": "Observe and Report"
+    }, 
+    "Matchstick Men": {
+        "critics_score": 82, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 76, 
+        "id": "11033", 
+        "title": "Matchstick Men"
+    }, 
+    "Willy Wonka and the Chocolate Factory": {
+        "critics_score": 89, 
+        "genres": [
+            "Kids & Family", 
+            "Musical & Performing Arts", 
+            "Classics", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 80, 
+        "id": "9897", 
+        "title": "Willy Wonka and the Chocolate Factory"
+    }, 
+    "Rubber": {
+        "critics_score": -1, 
+        "genres": [
+            "Musical & Performing Arts", 
+            "Documentary"
+        ], 
+        "audience_score": 0, 
+        "id": "770846661", 
+        "title": "The Rubber Soul Project"
+    }, 
+    "Billy Madison": {
+        "critics_score": 45, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 79, 
+        "id": "11546", 
+        "title": "Billy Madison"
+    }, 
+    "Lady In White": {
+        "critics_score": 67, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 69, 
+        "id": "11417", 
+        "title": "Lady in White"
+    }, 
+    "The Big Lebowski": {
+        "critics_score": 80, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 93, 
+        "id": "14281", 
+        "title": "The Big Lebowski"
+    }, 
+    "The Grudge 3": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 38, 
+        "id": "770799342", 
+        "title": "The Grudge 3"
+    }, 
+    "Pulp Fiction": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 95, 
+        "id": "13863", 
+        "title": "Pulp Fiction"
+    }, 
+    "Eating": {
+        "critics_score": 89, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 86, 
+        "id": "10139", 
+        "title": "What's Eating Gilbert Grape"
+    }, 
+    "Tucker & Dale Vs. Evil": {
+        "critics_score": 26, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 74, 
+        "id": "190816360", 
+        "title": "John Tucker Must Die"
+    }, 
+    "Thank You For Smoking": {
+        "critics_score": 86, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 84, 
+        "id": "112770550", 
+        "title": "Thank You For Smoking"
+    }, 
+    "A Beautiful Mind": {
+        "critics_score": 77, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 91, 
+        "id": "10240", 
+        "title": "A Beautiful Mind"
+    }, 
+    "The Expendables": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 99, 
+        "id": "771320888", 
+        "title": "The Expendables 3"
+    }, 
+    "Blindness": {
+        "critics_score": 43, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 48, 
+        "id": "770672765", 
+        "title": "Blindness"
+    }, 
+    "Wolf Creek": {
+        "critics_score": 53, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 49, 
+        "id": "24474", 
+        "title": "Wolf Creek"
+    }, 
+    "Back to the Future - Part III": {
+        "critics_score": 73, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 74, 
+        "id": "23534", 
+        "title": "Back to the Future Part III"
+    }, 
+    "127 Hours": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 84, 
+        "id": "771028554", 
+        "title": "127 Hours"
+    }, 
+    "Che Part One": {
+        "critics_score": 66, 
+        "genres": [
+            "Art House & International", 
+            "Drama"
+        ], 
+        "audience_score": 75, 
+        "id": "770675137", 
+        "title": "Che: Part One (The Argentine)"
+    }, 
+    "The Invasion": {
+        "critics_score": 20, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 42, 
+        "id": "512896979", 
+        "title": "The Invasion"
+    }, 
+    "Cloudy with a Chance of Meatballs": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Animation", 
+            "Kids & Family", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 97, 
+        "id": "771271679", 
+        "title": "Cloudy with a Chance of Meatballs 2"
+    }, 
+    "Shutter": {
+        "critics_score": 68, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 73, 
+        "id": "770681152", 
+        "title": "Shutter Island"
+    }, 
+    "The Descendants": {
+        "critics_score": 89, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 79, 
+        "id": "771236985", 
+        "title": "The Descendants"
+    }, 
+    "Dog Day Afternoon": {
+        "critics_score": 97, 
+        "genres": [
+            "Drama", 
+            "Classics"
+        ], 
+        "audience_score": 89, 
+        "id": "13185", 
+        "title": "Dog Day Afternoon"
+    }, 
+    "The Happening": {
+        "critics_score": 17, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 29, 
+        "id": "770675257", 
+        "title": "The Happening"
+    }, 
+    "The Hangover II": {
+        "critics_score": 34, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 58, 
+        "id": "771095631", 
+        "title": "The Hangover Part II"
+    }, 
+    "Devil's Advocate": {
+        "critics_score": 66, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 78, 
+        "id": "22536", 
+        "title": "The Devil's Advocate"
+    }, 
+    "Re-Animator": {
+        "critics_score": 95, 
+        "genres": [
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 78, 
+        "id": "14998", 
+        "title": "Re-Animator"
+    }, 
+    "Batman Begins": {
+        "critics_score": 85, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 90, 
+        "id": "1122", 
+        "title": "Batman Begins"
+    }, 
+    "Journey To The Center Of The Earth": {
+        "critics_score": 61, 
+        "genres": [
+            "Action & Adventure", 
+            "Kids & Family", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 55, 
+        "id": "770674856", 
+        "title": "Journey to the Center of the Earth"
+    }, 
+    "Shaun Of The Dead": {
+        "critics_score": 91, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 91, 
+        "id": "12873", 
+        "title": "Shaun of the Dead"
+    }, 
+    "Grown Ups": {
+        "critics_score": -1, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 95, 
+        "id": "771267074", 
+        "title": "Grown Ups 2"
+    }, 
+    "A Goofy Movie": {
+        "critics_score": 53, 
+        "genres": [
+            "Animation", 
+            "Kids & Family", 
+            "Comedy"
+        ], 
+        "audience_score": 57, 
+        "id": "9564", 
+        "title": "A Goofy Movie"
+    }, 
+    "Adjustment Bureau": {
+        "critics_score": 72, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Romance"
+        ], 
+        "audience_score": 67, 
+        "id": "770810295", 
+        "title": "The Adjustment Bureau"
+    }, 
+    "28 Weeks Later": {
+        "critics_score": 71, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 66, 
+        "id": "660304807", 
+        "title": "28 Weeks Later..."
+    }, 
+    "Frequency": {
+        "critics_score": 70, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 78, 
+        "id": "10754", 
+        "title": "Frequency"
+    }, 
+    "Monsters Vs. Aliens": {
+        "critics_score": 72, 
+        "genres": [
+            "Action & Adventure", 
+            "Animation", 
+            "Kids & Family", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 65, 
+        "id": "770781791", 
+        "title": "Monsters vs. Aliens"
+    }, 
+    "My Name Is Bruce": {
+        "critics_score": 39, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 48, 
+        "id": "770670891", 
+        "title": "My Name Is Bruce"
+    }, 
+    "Gladiator": {
+        "critics_score": 77, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Classics"
+        ], 
+        "audience_score": 85, 
+        "id": "13065", 
+        "title": "Gladiator"
+    }, 
+    "Space Jam": {
+        "critics_score": 35, 
+        "genres": [
+            "Comedy", 
+            "Kids & Family"
+        ], 
+        "audience_score": 52, 
+        "id": "12491", 
+        "title": "Space Jam"
+    }, 
+    "Fright Night 2011": {
+        "critics_score": 72, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 60, 
+        "id": "771028776", 
+        "title": "Fright Night"
+    }, 
+    "Bigger Stronger Faster": {
+        "critics_score": 96, 
+        "genres": [
+            "Documentary", 
+            "Special Interest"
+        ], 
+        "audience_score": 75, 
+        "id": "770682467", 
+        "title": "Bigger, Stronger, Faster*"
+    }, 
+    "Get Carter": {
+        "critics_score": 89, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 82, 
+        "id": "14030", 
+        "title": "Get Carter"
+    }, 
+    "21 Jump Street": {
+        "critics_score": 85, 
+        "genres": [
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 86, 
+        "id": "770863876", 
+        "title": "21 Jump Street"
+    }, 
+    "Lords Of Dogtown": {
+        "critics_score": 55, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 80, 
+        "id": "671", 
+        "title": "Lords of Dogtown"
+    }, 
+    "Oceans": {
+        "critics_score": 82, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 76, 
+        "id": "10182", 
+        "title": "Ocean's Eleven"
+    }, 
+    "Stranger Than Fiction": {
+        "critics_score": 72, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Comedy"
+        ], 
+        "audience_score": 82, 
+        "id": "343950173", 
+        "title": "Stranger Than Fiction"
+    }, 
+    "The Usual Suspects": {
+        "critics_score": 88, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 95, 
+        "id": "16303", 
+        "title": "The Usual Suspects"
+    }, 
+    "Stir Crazy": {
+        "critics_score": 67, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 75, 
+        "id": "13582", 
+        "title": "Stir Crazy"
+    }, 
+    "Sanctum": {
+        "critics_score": 30, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 38, 
+        "id": "771025840", 
+        "title": "Sanctum"
+    }, 
+    "City Of God": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Art House & International"
+        ], 
+        "audience_score": 97, 
+        "id": "12927", 
+        "title": "Cidade de Deus (City of God)"
+    }, 
+    "Good Burger": {
+        "critics_score": 31, 
+        "genres": [
+            "Comedy", 
+            "Kids & Family"
+        ], 
+        "audience_score": 59, 
+        "id": "10895", 
+        "title": "Good Burger"
+    }, 
+    "Frozen": {
+        "critics_score": 60, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 44, 
+        "id": "770856799", 
+        "title": "Frozen"
+    }, 
+    "Hatchet": {
+        "critics_score": 58, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 32, 
+        "id": "771320295", 
+        "title": "Hatchet III"
+    }, 
+    "The Strangers": {
+        "critics_score": 45, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 48, 
+        "id": "678555400", 
+        "title": "The Strangers"
+    }, 
+    "Tropic Thunder": {
+        "critics_score": 83, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 69, 
+        "id": "770681826", 
+        "title": "Tropic Thunder"
+    }, 
+    "Gamer": {
+        "critics_score": 29, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 42, 
+        "id": "770681197", 
+        "title": "Gamer"
+    }, 
+    "Jungle 2 Jungle": {
+        "critics_score": 20, 
+        "genres": [
+            "Comedy", 
+            "Kids & Family"
+        ], 
+        "audience_score": 44, 
+        "id": "11230", 
+        "title": "Jungle 2 Jungle"
+    }, 
+    "The Goonies": {
+        "critics_score": 63, 
+        "genres": [
+            "Action & Adventure", 
+            "Kids & Family", 
+            "Comedy"
+        ], 
+        "audience_score": 88, 
+        "id": "10027", 
+        "title": "The Goonies"
+    }, 
+    "Zodiac": {
+        "critics_score": 90, 
+        "genres": [
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 73, 
+        "id": "358188521", 
+        "title": "Zodiac"
+    }, 
+    "Semi-Pro": {
+        "critics_score": 21, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 41, 
+        "id": "770674955", 
+        "title": "Semi-Pro"
+    }, 
+    "Sling Blade": {
+        "critics_score": 96, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 90, 
+        "id": "13636", 
+        "title": "Sling Blade"
+    }, 
+    "Pineapple Express": {
+        "critics_score": 68, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 74, 
+        "id": "770671939", 
+        "title": "Pineapple Express"
+    }, 
+    "Day Of The Dead 2": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 21, 
+        "id": "13115", 
+        "title": "Day of the Dead 2 - Contagium"
+    }, 
+    "Get Him To The Greek": {
+        "critics_score": 72, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 63, 
+        "id": "770810640", 
+        "title": "Get Him to the Greek"
+    }, 
+    "The Departed": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 92, 
+        "id": "314387087", 
+        "title": "The Departed"
+    }, 
+    "Independence Day": {
+        "critics_score": -1, 
+        "genres": [
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 100, 
+        "id": "771359352", 
+        "title": "Independence Day 2"
+    }, 
+    "The Big White": {
+        "critics_score": 30, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 55, 
+        "id": "243164069", 
+        "title": "The Big White"
+    }, 
+    "Kiss Kiss Bang Bang": {
+        "critics_score": 83, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Comedy"
+        ], 
+        "audience_score": 83, 
+        "id": "8846", 
+        "title": "Kiss Kiss, Bang Bang"
+    }, 
+    "Three Extremes": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 52, 
+        "id": "770672572", 
+        "title": "Saam gaang (3 Extremes II) (Three Extremes 2)"
+    }, 
+    "Zombieland": {
+        "critics_score": 90, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 87, 
+        "id": "770802740", 
+        "title": "Zombieland"
+    }, 
+    "Platoon": {
+        "critics_score": 88, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 91, 
+        "id": "16450", 
+        "title": "Platoon"
+    }, 
+    "Cronos": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 67, 
+        "id": "14970", 
+        "title": "Cronos"
+    }, 
+    "The Grudge": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Sports & Fitness", 
+            "Comedy"
+        ], 
+        "audience_score": 92, 
+        "id": "771325419", 
+        "title": "Grudge Match"
+    }, 
+    "Cyrus": {
+        "critics_score": 71, 
+        "genres": [
+            "Documentary", 
+            "Kids & Family", 
+            "Musical & Performing Arts"
+        ], 
+        "audience_score": 70, 
+        "id": "770677196", 
+        "title": "Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour"
+    }, 
+    "The Lookout": {
+        "critics_score": 87, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 72, 
+        "id": "501914114", 
+        "title": "The Lookout"
+    }, 
+    "Pirates of the Carribean - Dead Man's Chest": {
+        "critics_score": 54, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 86, 
+        "id": "190815398", 
+        "title": "Pirates of the Caribbean: Dead Man's Chest"
+    }, 
+    "The Unborn": {
+        "critics_score": 11, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 39, 
+        "id": "770783948", 
+        "title": "The Unborn"
+    }, 
+    "Pet Sematary 2": {
+        "critics_score": 29, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 40, 
+        "id": "14161", 
+        "title": "Pet Sematary Two"
+    }, 
+    "Ali G IndaHouse": {
+        "critics_score": 56, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 55, 
+        "id": "13248", 
+        "title": "Ali G Indahouse - The Movie"
+    }, 
+    "Being John Malkovich": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 85, 
+        "id": "14414", 
+        "title": "Being John Malkovich"
+    }, 
+    "Religulous": {
+        "critics_score": 69, 
+        "genres": [
+            "Documentary", 
+            "Faith & Spirituality", 
+            "Comedy"
+        ], 
+        "audience_score": 78, 
+        "id": "770676002", 
+        "title": "Religulous"
+    }, 
+    "Donnie Darko": {
+        "critics_score": 85, 
+        "genres": [
+            "Romance", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 77, 
+        "id": "12889", 
+        "title": "Donnie Darko"
+    }, 
+    "Tremors": {
+        "critics_score": 88, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 63, 
+        "id": "10408", 
+        "title": "Tremors"
+    }, 
+    "Black Dynamite": {
+        "critics_score": 85, 
+        "genres": [
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 83, 
+        "id": "770800373", 
+        "title": "Black Dynamite"
+    }, 
+    "The Island": {
+        "critics_score": 68, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 73, 
+        "id": "770681152", 
+        "title": "Shutter Island"
+    }, 
+    "Heavy Weights": {
+        "critics_score": 29, 
+        "genres": [
+            "Comedy", 
+            "Kids & Family"
+        ], 
+        "audience_score": 74, 
+        "id": "10359", 
+        "title": "Heavyweights (Heavy Weights)"
+    }, 
+    "Magic": {
+        "critics_score": -1, 
+        "genres": [
+            "Documentary", 
+            "Special Interest"
+        ], 
+        "audience_score": 0, 
+        "id": "771322226", 
+        "title": "Magic Camp"
+    }, 
+    "Life of Brian": {
+        "critics_score": 96, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 91, 
+        "id": "12858", 
+        "title": "Monty Python's Life of Brian"
+    }, 
+    "The Grapes of Wrath": {
+        "critics_score": 100, 
+        "genres": [
+            "Drama", 
+            "Classics"
+        ], 
+        "audience_score": 86, 
+        "id": "18139", 
+        "title": "The Grapes of Wrath"
+    }, 
+    "Le Cercle Rouge": {
+        "critics_score": 95, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 91, 
+        "id": "19140", 
+        "title": "Le Cercle Rouge"
+    }, 
+    "Cedar Rapids": {
+        "critics_score": 85, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 58, 
+        "id": "771193483", 
+        "title": "Cedar Rapids"
+    }, 
+    "American History X": {
+        "critics_score": 82, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 96, 
+        "id": "12900", 
+        "title": "American History X"
+    }, 
+    "Dark Secrets": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 31, 
+        "id": "22584", 
+        "title": "Julie Strain's Dark Secrets"
+    }, 
+    "Pete Smalls Is Dead": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 33, 
+        "id": "771231576", 
+        "title": "Pete Smalls is Dead"
+    }, 
+    "Apt Pupil": {
+        "critics_score": 53, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 56, 
+        "id": "13982", 
+        "title": "Apt Pupil"
+    }, 
+    "Back to the Future - Part II": {
+        "critics_score": 64, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 80, 
+        "id": "23533", 
+        "title": "Back to the Future Part II"
+    }, 
+    "Pan's Labyrinth": {
+        "critics_score": 96, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 90, 
+        "id": "343934933", 
+        "title": "Pan's Labyrinth"
+    }, 
+    "The Killing Fields": {
+        "critics_score": 91, 
+        "genres": [
+            "Art House & International", 
+            "Drama"
+        ], 
+        "audience_score": 89, 
+        "id": "13358", 
+        "title": "The Killing Fields"
+    }, 
+    "The Lost World": {
+        "critics_score": 52, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 55, 
+        "id": "11605", 
+        "title": "The Lost World - Jurassic Park"
+    }, 
+    "Miller's Crossing": {
+        "critics_score": 91, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 88, 
+        "id": "12945", 
+        "title": "Miller's Crossing"
+    }, 
+    "My Big Fat Greek Wedding": {
+        "critics_score": 76, 
+        "genres": [
+            "Comedy", 
+            "Romance"
+        ], 
+        "audience_score": 69, 
+        "id": "10204", 
+        "title": "My Big Fat Greek Wedding"
+    }, 
+    "The Waterboy": {
+        "critics_score": 32, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 74, 
+        "id": "10169", 
+        "title": "The Waterboy"
+    }, 
+    "Lady Vengeance": {
+        "critics_score": 74, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 85, 
+        "id": "149086041", 
+        "title": "Sympathy for Lady Vengeance"
+    }, 
+    "Men In Black": {
+        "critics_score": 70, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 72, 
+        "id": "771041419", 
+        "title": "Men in Black III"
+    }, 
+    "Open Water": {
+        "critics_score": 72, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 32, 
+        "id": "14252", 
+        "title": "Open Water"
+    }, 
+    "Boondock Saints": {
+        "critics_score": 23, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 60, 
+        "id": "770807373", 
+        "title": "The Boondock Saints II: All Saints Day"
+    }, 
+    "Batteries Not Included": {
+        "critics_score": 64, 
+        "genres": [
+            "Kids & Family", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 61, 
+        "id": "10399", 
+        "title": "*batteries not included"
+    }, 
+    "Eden Log": {
+        "critics_score": 43, 
+        "genres": [
+            "Horror", 
+            "Art House & International", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 31, 
+        "id": "770682238", 
+        "title": "Eden Log"
+    }, 
+    "The Blair Witch Project": {
+        "critics_score": 87, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 47, 
+        "id": "13062", 
+        "title": "The Blair Witch Project"
+    }, 
+    "Wrong Turn 2 - Dead End": {
+        "critics_score": 78, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 50, 
+        "id": "563089248", 
+        "title": "Wrong Turn 2: Dead End"
+    }, 
+    "Pi": {
+        "critics_score": 87, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy", 
+            "Special Interest"
+        ], 
+        "audience_score": 85, 
+        "id": "13056", 
+        "title": "Pi"
+    }, 
+    "The Ring Virus": {
+        "critics_score": -1, 
+        "genres": [
+            "Art House & International", 
+            "Horror"
+        ], 
+        "audience_score": 40, 
+        "id": "20015", 
+        "title": "The Ring Virus"
+    }, 
+    "Henry - Portrait Of A Serial Killer": {
+        "critics_score": 88, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 70, 
+        "id": "202623137", 
+        "title": "Henry: Portrait of a Serial Killer"
+    }, 
+    "Insomnia": {
+        "critics_score": 93, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 67, 
+        "id": "14923", 
+        "title": "Insomnia"
+    }, 
+    "Forgetting Sarah Marshall": {
+        "critics_score": 84, 
+        "genres": [
+            "Comedy", 
+            "Romance"
+        ], 
+        "audience_score": 75, 
+        "id": "770675807", 
+        "title": "Forgetting Sarah Marshall"
+    }, 
+    "The Man Who Knew Too Much": {
+        "critics_score": 89, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Classics"
+        ], 
+        "audience_score": 81, 
+        "id": "10334", 
+        "title": "The Man Who Knew Too Much"
+    }, 
+    "Children Of Men": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 81, 
+        "id": "326459204", 
+        "title": "Children of Men"
+    }, 
+    "Public Enemies": {
+        "critics_score": 68, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 65, 
+        "id": "770681871", 
+        "title": "Public Enemies"
+    }, 
+    "The Eye": {
+        "critics_score": 26, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 72, 
+        "id": "770675744", 
+        "title": "Eagle Eye"
+    }, 
+    "Looper": {
+        "critics_score": 93, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 87, 
+        "id": "771186945", 
+        "title": "Looper"
+    }, 
+    "Staunton Hill": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 14, 
+        "id": "770817789", 
+        "title": "Staunton Hill"
+    }, 
+    "Crazy Heart": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Musical & Performing Arts"
+        ], 
+        "audience_score": 73, 
+        "id": "770801608", 
+        "title": "Crazy Heart"
+    }, 
+    "Drag Me To Hell": {
+        "critics_score": 92, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 61, 
+        "id": "770785298", 
+        "title": "Drag Me to Hell"
+    }, 
+    "The Hills Have Eyes": {
+        "critics_score": 11, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 50, 
+        "id": "493950127", 
+        "title": "The Hills Have Eyes 2"
+    }, 
+    "Natural Born Killers": {
+        "critics_score": 48, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 80, 
+        "id": "17098", 
+        "title": "Natural Born Killers"
+    }, 
+    "The Cottage": {
+        "critics_score": 72, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 44, 
+        "id": "770683938", 
+        "title": "The Cottage"
+    }, 
+    "Insidious": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 96, 
+        "id": "771321870", 
+        "title": "Insidious: Chapter 2"
+    }, 
+    "Vacancy": {
+        "critics_score": 56, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 46, 
+        "id": "594324614", 
+        "title": "Vacancy"
+    }, 
+    "Winnebago Man": {
+        "critics_score": 90, 
+        "genres": [
+            "Documentary", 
+            "Comedy", 
+            "Special Interest"
+        ], 
+        "audience_score": 73, 
+        "id": "770809072", 
+        "title": "Winnebago Man"
+    }, 
+    "The Fall": {
+        "critics_score": 20, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 76, 
+        "id": "770676429", 
+        "title": "Transformers: Revenge of the Fallen"
+    }, 
+    "What Dreams May Come": {
+        "critics_score": 54, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 85, 
+        "id": "11789", 
+        "title": "What Dreams May Come"
+    }, 
+    "A Knight's Tale": {
+        "critics_score": 58, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Romance"
+        ], 
+        "audience_score": 80, 
+        "id": "18022", 
+        "title": "A Knight's Tale"
+    }, 
+    "Rec 3": {
+        "critics_score": 38, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 28, 
+        "id": "771206318", 
+        "title": "[REC] 3 Genesis"
+    }, 
+    "Rec 2": {
+        "critics_score": 69, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense", 
+            "Special Interest"
+        ], 
+        "audience_score": 59, 
+        "id": "770683095", 
+        "title": "[Rec] 2"
+    }, 
+    "Pirates of the Carribean": {
+        "critics_score": 79, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 86, 
+        "id": "10020", 
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
+    }, 
+    "Braveheart": {
+        "critics_score": 81, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Classics"
+        ], 
+        "audience_score": 83, 
+        "id": "12866", 
+        "title": "Braveheart"
+    }, 
+    "50-50": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 89, 
+        "id": "771234468", 
+        "title": "50/50"
+    }, 
+    "Tremors 2 - Aftershocks": {
+        "critics_score": 63, 
+        "genres": [
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 46, 
+        "id": "10908", 
+        "title": "Tremors 2: Aftershocks"
+    }, 
+    "Adventureland": {
+        "critics_score": 88, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 57, 
+        "id": "770684787", 
+        "title": "Adventureland"
+    }, 
+    "Without A Paddle": {
+        "critics_score": 14, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 73, 
+        "id": "10946", 
+        "title": "Without A Paddle"
+    }, 
+    "Borat": {
+        "critics_score": 91, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 76, 
+        "id": "337720947", 
+        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
+    }, 
+    "Rivers And Tides": {
+        "critics_score": -1, 
+        "genres": [
+            "Documentary", 
+            "Musical & Performing Arts", 
+            "Art House & International"
+        ], 
+        "audience_score": 84, 
+        "id": "155563735", 
+        "title": "Rivers and Tides: Andy Goldsworthy Working With Time"
+    }, 
+    "The X Files - I Want To Believe": {
+        "critics_score": 32, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 34, 
+        "id": "770678072", 
+        "title": "The X-Files: I Want to Believe (The X Files 2)"
+    }, 
+    "Big Fish": {
+        "critics_score": 77, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 86, 
+        "id": "10167", 
+        "title": "Big Fish"
+    }, 
+    "The Dark Knight": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 96, 
+        "id": "769959054", 
+        "title": "The Dark Knight"
+    }, 
+    "Skyfall": {
+        "critics_score": 92, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 88, 
+        "id": "770680844", 
+        "title": "Skyfall"
+    }, 
+    "Children Of The Corn": {
+        "critics_score": 39, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Cult Movies"
+        ], 
+        "audience_score": 49, 
+        "id": "13987", 
+        "title": "Children of the Corn"
+    }, 
+    "Rogue": {
+        "critics_score": 14, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 55, 
+        "id": "770669497", 
+        "title": "War (Rogue Assassin)"
+    }, 
+    "Identity": {
+        "critics_score": 20, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 57, 
+        "id": "771270981", 
+        "title": "Identity Thief"
+    }, 
+    "The Mist": {
+        "critics_score": 73, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 64, 
+        "id": "770103358", 
+        "title": "The Mist"
+    }, 
+    "Br\u0081no": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 86, 
+        "id": "770671181", 
+        "title": "Nuda v Brne (Bored in Brno)(Boredom in Brno)"
+    }, 
+    "Poseidon": {
+        "critics_score": 32, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 57, 
+        "id": "155654957", 
+        "title": "Poseidon"
+    }, 
+    "Bill & Ted's Excellent Adventure": {
+        "critics_score": 85, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 76, 
+        "id": "12865", 
+        "title": "Kill Bill: Volume 1"
+    }, 
+    "Inception": {
+        "critics_score": 86, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 93, 
+        "id": "770805418", 
+        "title": "Inception"
+    }, 
+    "Blood Simple": {
+        "critics_score": 94, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 86, 
+        "id": "13324", 
+        "title": "Blood Simple"
+    }, 
+    "12 Monkeys": {
+        "critics_score": 88, 
+        "genres": [
+            "Drama", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 84, 
+        "id": "15508", 
+        "title": "Twelve Monkeys (12 Monkeys)"
+    }, 
+    "Misery": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 83, 
+        "id": "16322", 
+        "title": "Misery"
+    }, 
+    "Batman Forever": {
+        "critics_score": 41, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 42, 
+        "id": "11174", 
+        "title": "Batman Forever"
+    }, 
+    "Batman(1966)": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 96, 
+        "id": "769959054", 
+        "title": "The Dark Knight"
+    }, 
+    "Halloween": {
+        "critics_score": 25, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 64, 
+        "id": "586908241", 
+        "title": "Halloween"
+    }, 
+    "Pulse": {
+        "critics_score": 10, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 37, 
+        "id": "190815565", 
+        "title": "Pulse"
+    }, 
+    "Fireproof": {
+        "critics_score": 40, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 85, 
+        "id": "770682099", 
+        "title": "Fireproof"
+    }, 
+    "The Girl Next Door": {
+        "critics_score": 55, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 71, 
+        "id": "14679", 
+        "title": "The Girl Next Door"
+    }, 
+    "DeJaVu": {
+        "critics_score": 55, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Romance", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 77, 
+        "id": "387273864", 
+        "title": "Deja Vu"
+    }, 
+    "Hobo with a Shotgun": {
+        "critics_score": 66, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 57, 
+        "id": "771206377", 
+        "title": "Hobo With a Shotgun"
+    }, 
+    "Juno": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 89, 
+        "id": "770675878", 
+        "title": "Juno"
+    }, 
+    "Napoleon Dynamite": {
+        "critics_score": 71, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 73, 
+        "id": "10007", 
+        "title": "Napoleon Dynamite"
+    }, 
+    "Joy Ride": {
+        "critics_score": 74, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 63, 
+        "id": "13917", 
+        "title": "Joy Ride"
+    }, 
+    "The Curious Case of Benjamin Button": {
+        "critics_score": 73, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 81, 
+        "id": "770669386", 
+        "title": "The Curious Case of Benjamin Button"
+    }, 
+    "The Kings Speech": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 93, 
+        "id": "770816664", 
+        "title": "The King's Speech"
+    }, 
+    "It's Alive": {
+        "critics_score": 50, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 20, 
+        "id": "268621782", 
+        "title": "It's Alive III: Island of the Alive"
+    }, 
+    "Kung Fu Panda": {
+        "critics_score": -1, 
+        "genres": [
+            "Animation"
+        ], 
+        "audience_score": 98, 
+        "id": "771315831", 
+        "title": "Kung Fu Panda 3"
+    }, 
+    "Inglourious Basterds": {
+        "critics_score": 88, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 87, 
+        "id": "770671947", 
+        "title": "Inglourious Basterds"
+    }, 
+    "Panic Room": {
+        "critics_score": 76, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 61, 
+        "id": "13778", 
+        "title": "Panic Room"
+    }, 
+    "The Hurt Locker": {
+        "critics_score": 97, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 83, 
+        "id": "770789467", 
+        "title": "The Hurt Locker"
+    }, 
+    "District 9": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Art House & International", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 81, 
+        "id": "770805203", 
+        "title": "District 9"
+    }, 
+    "Hunger": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 99, 
+        "id": "771250004", 
+        "title": "The Hunger Games: Catching Fire"
+    }, 
+    "Secret Window": {
+        "critics_score": 46, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 69, 
+        "id": "10587", 
+        "title": "Secret Window"
+    }, 
+    "Baghead": {
+        "critics_score": 78, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 46, 
+        "id": "770682459", 
+        "title": "Baghead"
+    }, 
+    "9": {
+        "critics_score": 37, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Musical & Performing Arts"
+        ], 
+        "audience_score": 39, 
+        "id": "770783485", 
+        "title": "Nine"
+    }, 
+    "The Poughkeepsie Tapes": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 46, 
+        "id": "770669279", 
+        "title": "The Poughkeepsie Tapes"
+    }, 
+    "Machete": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 93, 
+        "id": "771306017", 
+        "title": "Machete Kills"
+    }, 
+    "The Village": {
+        "critics_score": 43, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 59, 
+        "id": "10191", 
+        "title": "The Village"
+    }, 
+    "Sympathy For Mr. Vengeance": {
+        "critics_score": 55, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 84, 
+        "id": "5083", 
+        "title": "Sympathy for Mr. Vengeance (Boksuneun naui geot)"
+    }, 
+    "Taking Woodstock": {
+        "critics_score": 48, 
+        "genres": [
+            "Drama", 
+            "Musical & Performing Arts", 
+            "Comedy"
+        ], 
+        "audience_score": 47, 
+        "id": "770790009", 
+        "title": "Taking Woodstock"
+    }, 
+    "X-Men Origins - Wolverine": {
+        "critics_score": 38, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 72, 
+        "id": "770675725", 
+        "title": "X-Men Origins - Wolverine"
+    }, 
+    "Jackass the Movie": {
+        "critics_score": 63, 
+        "genres": [
+            "Documentary", 
+            "Comedy"
+        ], 
+        "audience_score": 83, 
+        "id": "287865350", 
+        "title": "Jackass: Number Two"
+    }, 
+    "The Box": {
+        "critics_score": 45, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 27, 
+        "id": "770686237", 
+        "title": "The Box"
+    }, 
+    "Crossroads": {
+        "critics_score": -1, 
+        "genres": [
+            "Special Interest"
+        ], 
+        "audience_score": 0, 
+        "id": "771359738", 
+        "title": "Eric Clapton's Crossroads 2013"
+    }, 
+    "Avatar": {
+        "critics_score": 83, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 92, 
+        "id": "665118753", 
+        "title": "Avatar"
+    }, 
+    "Frankenstein Conquers the World": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Art House & International", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 52, 
+        "id": "545747358", 
+        "title": "Furankenshutain tai chitei kaiju Baragon (Frankenstein Conquers the World)"
+    }, 
+    "The Quiet American": {
+        "critics_score": 87, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 68, 
+        "id": "13739", 
+        "title": "The Quiet American"
+    }, 
+    "Man On Wire": {
+        "critics_score": 100, 
+        "genres": [
+            "Documentary", 
+            "Special Interest"
+        ], 
+        "audience_score": 87, 
+        "id": "770682536", 
+        "title": "Man on Wire"
+    }, 
+    "Inside Job": {
+        "critics_score": 98, 
+        "genres": [
+            "Documentary", 
+            "Special Interest"
+        ], 
+        "audience_score": 90, 
+        "id": "771200415", 
+        "title": "Inside Job"
+    }, 
+    "City Of Men": {
+        "critics_score": 76, 
+        "genres": [
+            "Art House & International", 
+            "Drama"
+        ], 
+        "audience_score": 77, 
+        "id": "770677320", 
+        "title": "Cidade dos Homens (City of Men)"
+    }, 
+    "Tell No One": {
+        "critics_score": 94, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 86, 
+        "id": "425745053", 
+        "title": "Ne le Dis a Personne (Tell No One)"
+    }, 
+    "Red Eye": {
+        "critics_score": 79, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 66, 
+        "id": "5078", 
+        "title": "Red Eye"
+    }, 
+    "Stand By Me": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 93, 
+        "id": "16272", 
+        "title": "Stand by Me"
+    }, 
+    "The Ferryman": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 20, 
+        "id": "770677125", 
+        "title": "The Ferryman"
+    }, 
+    "The A-Team": {
+        "critics_score": 47, 
+        "genres": [
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 71, 
+        "id": "770681977", 
+        "title": "The A-Team"
+    }, 
+    "The Kite Runner": {
+        "critics_score": 65, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 85, 
+        "id": "770671962", 
+        "title": "The Kite Runner"
+    }, 
+    "Terminator Salvation": {
+        "critics_score": 33, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 64, 
+        "id": "770676948", 
+        "title": "Terminator Salvation"
+    }, 
+    "American Splendor": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Comedy"
+        ], 
+        "audience_score": 84, 
+        "id": "13417", 
+        "title": "American Splendor"
+    }, 
+    "Couples Retreat": {
+        "critics_score": 11, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 47, 
+        "id": "770803584", 
+        "title": "Couples Retreat"
+    }, 
+    "Pirates of the Caribbean - At World's End": {
+        "critics_score": 44, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 74, 
+        "id": "358174817", 
+        "title": "Pirates of the Caribbean: At Worlds End"
+    }, 
+    "Day of the Wacko": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Comedy"
+        ], 
+        "audience_score": 90, 
+        "id": "22318", 
+        "title": "Dzien swira (Day of the Wacko) (The Day of the Freak)"
+    }, 
+    "Barton Fink": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 87, 
+        "id": "13030", 
+        "title": "Barton Fink"
+    }, 
+    "Let The Right One In": {
+        "critics_score": 98, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Art House & International"
+        ], 
+        "audience_score": 89, 
+        "id": "770687125", 
+        "title": "Let the Right One In"
+    }, 
+    "Hot Fuzz": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 88, 
+        "id": "387405167", 
+        "title": "Hot Fuzz"
+    }, 
+    "Taken": {
+        "critics_score": 58, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 83, 
+        "id": "770680780", 
+        "title": "Taken"
+    }, 
+    "Exit Through The Gift Shop": {
+        "critics_score": 96, 
+        "genres": [
+            "Documentary", 
+            "Musical & Performing Arts", 
+            "Comedy", 
+            "Special Interest"
+        ], 
+        "audience_score": 91, 
+        "id": "770860526", 
+        "title": "Exit Through The Gift Shop"
+    }, 
+    "The Escapist": {
+        "critics_score": 66, 
+        "genres": [
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 62, 
+        "id": "770728850", 
+        "title": "The Escapist"
+    }, 
+    "Mystery Men": {
+        "critics_score": 60, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 52, 
+        "id": "10623", 
+        "title": "Mystery Men"
+    }, 
+    "The Soloist": {
+        "critics_score": 56, 
+        "genres": [
+            "Musical & Performing Arts", 
+            "Drama"
+        ], 
+        "audience_score": 58, 
+        "id": "770782191", 
+        "title": "The Soloist"
+    }, 
+    "Gomorra": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 68, 
+        "id": "770769989", 
+        "title": "Gomorrah (Gomorra)"
+    }, 
+    "X-Men First Class": {
+        "critics_score": 88, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 88, 
+        "id": "771041145", 
+        "title": "X-Men: First Class"
+    }, 
+    "I'm Not Scared": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Mystery & Suspense", 
+            "Comedy"
+        ], 
+        "audience_score": 86, 
+        "id": "770678574", 
+        "title": "Io non ho paura (I'm Not Scared)"
+    }, 
+    "The Warriors": {
+        "critics_score": 73, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 68, 
+        "id": "14104", 
+        "title": "A Nightmare on Elm Street 3 - Dream Warriors"
+    }, 
+    "Chinatown": {
+        "critics_score": 98, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Classics"
+        ], 
+        "audience_score": 92, 
+        "id": "12883", 
+        "title": "Chinatown"
+    }, 
+    "Lincoln Lawyer": {
+        "critics_score": 83, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 81, 
+        "id": "771021934", 
+        "title": "The Lincoln Lawyer"
+    }, 
+    "Saw 3D": {
+        "critics_score": 36, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 66, 
+        "id": "8918", 
+        "title": "Saw II"
+    }, 
+    "Thor": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 99, 
+        "id": "771247277", 
+        "title": "Thor: The Dark World"
+    }, 
+    "Taxi Driver": {
+        "critics_score": 98, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 93, 
+        "id": "16625", 
+        "title": "Taxi Driver"
+    }, 
+    "Pet Sematary": {
+        "critics_score": 48, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 63, 
+        "id": "13130", 
+        "title": "Pet Sematary"
+    }, 
+    "High Fidelity": {
+        "critics_score": 92, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 88, 
+        "id": "12937", 
+        "title": "High Fidelity"
+    }, 
+    "Paranormal Activity 3": {
+        "critics_score": 68, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 52, 
+        "id": "771220639", 
+        "title": "Paranormal Activity 3"
+    }, 
+    "Paranormal Activity 2": {
+        "critics_score": 59, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 50, 
+        "id": "770874913", 
+        "title": "Paranormal Activity 2"
+    }, 
+    "Brave": {
+        "critics_score": 81, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Classics"
+        ], 
+        "audience_score": 83, 
+        "id": "12866", 
+        "title": "Braveheart"
+    }, 
+    "The Cave": {
+        "critics_score": 11, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 37, 
+        "id": "5617", 
+        "title": "The Cave"
+    }, 
+    "The Hunger Games": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 99, 
+        "id": "771250004", 
+        "title": "The Hunger Games: Catching Fire"
+    }, 
+    "The Terminal": {
+        "critics_score": 60, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 72, 
+        "id": "11664", 
+        "title": "The Terminal"
+    }, 
+    "Spooky Encounters": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Art House & International", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 82, 
+        "id": "572463126", 
+        "title": "Gui da gui (Close Encounters of the Spooky Kind)(Ghost Against Ghost)"
+    }, 
+    "30 Days Of Night": {
+        "critics_score": 51, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 57, 
+        "id": "512923951", 
+        "title": "30 Days of Night"
+    }, 
+    "Nick and Norahs Infinite Playlist": {
+        "critics_score": 73, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 67, 
+        "id": "770682422", 
+        "title": "Nick and Norah's Infinite Playlist"
+    }, 
+    "Deliverance": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Classics"
+        ], 
+        "audience_score": 79, 
+        "id": "12991", 
+        "title": "Deliverance"
+    }, 
+    "Army of Darkness": {
+        "critics_score": 71, 
+        "genres": [
+            "Action & Adventure", 
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 85, 
+        "id": "13043", 
+        "title": "Army of Darkness"
+    }, 
+    "Amusement": {
+        "critics_score": -1, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 28, 
+        "id": "770679752", 
+        "title": "Amusement"
+    }, 
+    "Envy": {
+        "critics_score": 7, 
+        "genres": [
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 30, 
+        "id": "11507", 
+        "title": "Envy"
+    }, 
+    "Death Race": {
+        "critics_score": 43, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 69, 
+        "id": "770671911", 
+        "title": "Death Race"
+    }, 
+    "Planes, Train, and Automobiles": {
+        "critics_score": 94, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 81, 
+        "id": "12872", 
+        "title": "Planes, Trains and Automobiles"
+    }, 
+    "Brotherhood Of The Wolf": {
+        "critics_score": 72, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Horror"
+        ], 
+        "audience_score": 75, 
+        "id": "13211", 
+        "title": "Le Pacte des loups (Brotherhood of the Wolf)"
+    }, 
+    "Apocalypto": {
+        "critics_score": 65, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Classics"
+        ], 
+        "audience_score": 79, 
+        "id": "387535876", 
+        "title": "Apocalypto"
+    }, 
+    "Fargo": {
+        "critics_score": 94, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 91, 
+        "id": "104762093", 
+        "title": "Fargo"
+    }, 
+    "International": {
+        "critics_score": 59, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 39, 
+        "id": "770680569", 
+        "title": "The International"
+    }, 
+    "Moneyball": {
+        "critics_score": 94, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 86, 
+        "id": "771189939", 
+        "title": "Moneyball"
+    }, 
+    "James and the Giant Peach": {
+        "critics_score": 93, 
+        "genres": [
+            "Animation", 
+            "Kids & Family"
+        ], 
+        "audience_score": 55, 
+        "id": "10249", 
+        "title": "James and the Giant Peach"
+    }, 
+    "Kick-Ass": {
+        "critics_score": -1, 
+        "genres": [
+            "Action & Adventure", 
+            "Comedy"
+        ], 
+        "audience_score": 98, 
+        "id": "771313870", 
+        "title": "Kick-Ass 2"
+    }, 
+    "Knowing": {
+        "critics_score": 33, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 50, 
+        "id": "770782161", 
+        "title": "Knowing"
+    }, 
+    "Cube": {
+        "critics_score": 61, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Horror"
+        ], 
+        "audience_score": 74, 
+        "id": "13195", 
+        "title": "Cube"
+    }, 
+    "Control Room": {
+        "critics_score": 96, 
+        "genres": [
+            "Documentary", 
+            "Special Interest"
+        ], 
+        "audience_score": 84, 
+        "id": "18123", 
+        "title": "Control Room"
+    }, 
+    "White Noise 2": {
+        "critics_score": 75, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 48, 
+        "id": "459518519", 
+        "title": "White Noise 2: The Light"
+    }, 
+    "The Terminator": {
+        "critics_score": 33, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 64, 
+        "id": "770676948", 
+        "title": "Terminator Salvation"
+    }, 
+    "The Inner Room": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 7, 
+        "id": "771237902", 
+        "title": "The Inner Room"
+    }, 
+    "Manhunter": {
+        "critics_score": 94, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 70, 
+        "id": "14432", 
+        "title": "Manhunter"
+    }, 
+    "The Deaths of Ian Stone": {
+        "critics_score": 57, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 36, 
+        "id": "770678737", 
+        "title": "The Deaths of Ian Stone"
+    }, 
+    "The Town": {
+        "critics_score": -1, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 75, 
+        "id": "771358208", 
+        "title": "Coffee Town"
+    }, 
+    "The Shawshank Redemption": {
+        "critics_score": 90, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 98, 
+        "id": "12989", 
+        "title": "The Shawshank Redemption"
+    }, 
+    "Ghost Town": {
+        "critics_score": 85, 
+        "genres": [
+            "Documentary", 
+            "Science Fiction & Fantasy", 
+            "Comedy", 
+            "Special Interest"
+        ], 
+        "audience_score": 60, 
+        "id": "770681647", 
+        "title": "Ghost Town"
+    }, 
+    "Nacho Libre": {
+        "critics_score": 40, 
+        "genres": [
+            "Comedy", 
+            "Kids & Family"
+        ], 
+        "audience_score": 57, 
+        "id": "155655162", 
+        "title": "Nacho Libre"
+    }, 
+    "Flight Of The Living Dead": {
+        "critics_score": 86, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 34, 
+        "id": "770670003", 
+        "title": "Flight of the Living Dead: Outbreak on a Plane (Plane Dead)"
+    }, 
+    "Burnt Offerings": {
+        "critics_score": 38, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 44, 
+        "id": "10850", 
+        "title": "Burnt Offerings"
+    }, 
+    "Slither": {
+        "critics_score": 86, 
+        "genres": [
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 58, 
+        "id": "133759650", 
+        "title": "Slither"
+    }, 
+    "Look": {
+        "critics_score": 63, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Comedy"
+        ], 
+        "audience_score": 43, 
+        "id": "771306273", 
+        "title": "The Look of Love"
+    }, 
+    "There Will Be Blood": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 84, 
+        "id": "770671487", 
+        "title": "There Will Be Blood"
+    }, 
+    "Street Kings": {
+        "critics_score": 36, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 62, 
+        "id": "770672506", 
+        "title": "Street Kings"
+    }, 
+    "A Scanner Darkly": {
+        "critics_score": 69, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Animation", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 70, 
+        "id": "190815509", 
+        "title": "A Scanner Darkly"
+    }, 
+    "Up": {
+        "critics_score": 98, 
+        "genres": [
+            "Action & Adventure", 
+            "Animation", 
+            "Kids & Family", 
+            "Comedy"
+        ], 
+        "audience_score": 86, 
+        "id": "770671912", 
+        "title": "Up"
+    }, 
+    "Timer": {
+        "critics_score": 58, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 63, 
+        "id": "770806990", 
+        "title": "TiMER"
+    }, 
+    "Drive": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 78, 
+        "id": "771224338", 
+        "title": "Drive"
+    }, 
+    "The Perfect Storm": {
+        "critics_score": 47, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure"
+        ], 
+        "audience_score": 58, 
+        "id": "12647", 
+        "title": "The Perfect Storm"
+    }, 
+    "Near Dark": {
+        "critics_score": 90, 
+        "genres": [
+            "Western", 
+            "Horror", 
+            "Romance", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 72, 
+        "id": "13394", 
+        "title": "Near Dark"
+    }, 
+    "The Hangover": {
+        "critics_score": 79, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 87, 
+        "id": "770801897", 
+        "title": "The Hangover"
+    }, 
+    "Dark Water": {
+        "critics_score": 45, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 37, 
+        "id": "1968", 
+        "title": "Dark Water"
+    }, 
+    "Robin Hood Men In Tights": {
+        "critics_score": 48, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 79, 
+        "id": "12696", 
+        "title": "Robin Hood: Men in Tights"
+    }, 
+    "Jackass Number Two": {
+        "critics_score": 63, 
+        "genres": [
+            "Documentary", 
+            "Comedy"
+        ], 
+        "audience_score": 83, 
+        "id": "287865350", 
+        "title": "Jackass: Number Two"
+    }, 
+    "The Hills Have Eyes 2": {
+        "critics_score": 11, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 50, 
+        "id": "493950127", 
+        "title": "The Hills Have Eyes 2"
+    }, 
+    "This Is Spinal Tap": {
+        "critics_score": 95, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 91, 
+        "id": "15894", 
+        "title": "This Is Spinal Tap"
+    }, 
+    "Everything Must Go": {
+        "critics_score": 74, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 52, 
+        "id": "771205671", 
+        "title": "Everything Must Go"
+    }, 
+    "Midnight in Paris": {
+        "critics_score": 93, 
+        "genres": [
+            "Comedy", 
+            "Romance"
+        ], 
+        "audience_score": 82, 
+        "id": "771040308", 
+        "title": "Midnight in Paris"
+    }, 
+    "The Sixth Man": {
+        "critics_score": 23, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 54, 
+        "id": "12786", 
+        "title": "The 6th Man"
+    }, 
+    "The Fly": {
+        "critics_score": 88, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Art House & International"
+        ], 
+        "audience_score": 81, 
+        "id": "10034", 
+        "title": "House of Flying Daggers"
+    }, 
+    "Rambo First Blood": {
+        "critics_score": 87, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 81, 
+        "id": "16521", 
+        "title": "First Blood (Rambo: First Blood)"
+    }, 
+    "Beyond Re-Animator": {
+        "critics_score": 45, 
+        "genres": [
+            "Horror", 
+            "Science Fiction & Fantasy", 
+            "Comedy"
+        ], 
+        "audience_score": 41, 
+        "id": "13977", 
+        "title": "Beyond Re-Animator"
+    }, 
+    "Raising Arizona": {
+        "critics_score": 90, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 82, 
+        "id": "10205", 
+        "title": "Raising Arizona"
+    }, 
+    "Star Trek": {
+        "critics_score": 95, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 91, 
+        "id": "770673029", 
+        "title": "Star Trek"
+    }, 
+    "Freaks": {
+        "critics_score": 93, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense", 
+            "Classics"
+        ], 
+        "audience_score": 87, 
+        "id": "17030", 
+        "title": "Freaks"
+    }, 
+    "Ferris Bueller's Day Off": {
+        "critics_score": 84, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 89, 
+        "id": "12224", 
+        "title": "Ferris Bueller's Day Off"
+    }, 
+    "7 Days": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Art House & International", 
+            "Comedy"
+        ], 
+        "audience_score": 61, 
+        "id": "771217502", 
+        "title": "Seven Days in Heaven (Fu hou qi ri) (7 Days in Heaven()"
+    }, 
+    "The Prestige": {
+        "critics_score": 76, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 90, 
+        "id": "314387818", 
+        "title": "The Prestige"
+    }, 
+    "1984": {
+        "critics_score": 79, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 69, 
+        "id": "14218", 
+        "title": "1984 (Nineteen Eighty-Four)"
+    }, 
+    "The Kingdom Of The Crystal Skull": {
+        "critics_score": 78, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 59, 
+        "id": "769964099", 
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull"
+    }, 
+    "You Don't Know Jack": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 82, 
+        "id": "770819783", 
+        "title": "You Don't Know Jack"
+    }, 
+    "Sorority Row": {
+        "critics_score": 21, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 38, 
+        "id": "770798314", 
+        "title": "Sorority Row"
+    }, 
+    "Splice": {
+        "critics_score": 74, 
+        "genres": [
+            "Science Fiction & Fantasy", 
+            "Horror"
+        ], 
+        "audience_score": 37, 
+        "id": "770682093", 
+        "title": "Splice"
+    }, 
+    "The Last Winter": {
+        "critics_score": 75, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 31, 
+        "id": "770674709", 
+        "title": "The Last Winter"
+    }, 
+    "White Noise": {
+        "critics_score": 9, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 44, 
+        "id": "11285", 
+        "title": "White Noise"
+    }, 
+    "Wanted": {
+        "critics_score": 71, 
+        "genres": [
+            "Action & Adventure", 
+            "Animation", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 72, 
+        "id": "770675607", 
+        "title": "Wanted"
+    }, 
+    "Superbad": {
+        "critics_score": 88, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 87, 
+        "id": "742790759", 
+        "title": "Superbad"
+    }, 
+    "Rosemary's Baby": {
+        "critics_score": 98, 
+        "genres": [
+            "Horror", 
+            "Mystery & Suspense", 
+            "Classics"
+        ], 
+        "audience_score": 83, 
+        "id": "13060", 
+        "title": "Rosemary's Baby"
+    }, 
+    "The Book of Eli": {
+        "critics_score": 48, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 68, 
+        "id": "770804147", 
+        "title": "The Book of Eli"
+    }, 
+    "Black Sheep": {
+        "critics_score": 70, 
+        "genres": [
+            "Horror", 
+            "Comedy"
+        ], 
+        "audience_score": 53, 
+        "id": "647845018", 
+        "title": "Black Sheep"
+    }, 
+    "The Ringer": {
+        "critics_score": 40, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 72, 
+        "id": "24469", 
+        "title": "The Ringer"
+    }, 
+    "The Thing": {
+        "critics_score": 61, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 69, 
+        "id": "10180", 
+        "title": "10 Things I Hate About You"
+    }, 
+    "Br\u0081no": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 86, 
+        "id": "770671181", 
+        "title": "Nuda v Brne (Bored in Brno)(Boredom in Brno)"
+    }, 
+    "Dawn Of The Dead": {
+        "critics_score": 75, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 75, 
+        "id": "17051", 
+        "title": "Dawn of the Dead"
+    }, 
+    "Mirrors": {
+        "critics_score": 14, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 48, 
+        "id": "770740067", 
+        "title": "Mirrors"
+    }, 
+    "3 Extremes II": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Art House & International", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 52, 
+        "id": "770672572", 
+        "title": "Saam gaang (3 Extremes II) (Three Extremes 2)"
+    }, 
+    "Ted": {
+        "critics_score": 68, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 80, 
+        "id": "771236465", 
+        "title": "Ted"
+    }, 
+    "Adaptation": {
+        "critics_score": 91, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 82, 
+        "id": "13212", 
+        "title": "Adaptation"
+    }, 
+    "The Final Cut": {
+        "critics_score": 9, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 34, 
+        "id": "15289", 
+        "title": "Urban Legends: Final Cut"
+    }, 
+    "The Parking Lot Movie": {
+        "critics_score": 71, 
+        "genres": [
+            "Documentary", 
+            "Special Interest"
+        ], 
+        "audience_score": 72, 
+        "id": "770872034", 
+        "title": "The Parking Lot Movie"
+    }, 
+    "Gone Baby Gone": {
+        "critics_score": 94, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 84, 
+        "id": "770673499", 
+        "title": "Gone Baby Gone"
+    }, 
+    "The Descent": {
+        "critics_score": 85, 
+        "genres": [
+            "Horror"
+        ], 
+        "audience_score": 71, 
+        "id": "75557905", 
+        "title": "The Descent"
+    }, 
+    "Easy A": {
+        "critics_score": 85, 
+        "genres": [
+            "Comedy", 
+            "Romance"
+        ], 
+        "audience_score": 75, 
+        "id": "770813310", 
+        "title": "Easy A"
+    }, 
+    "Babel": {
+        "critics_score": 69, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 76, 
+        "id": "314388060", 
+        "title": "Babel"
+    }, 
+    "Big Man Japan": {
+        "critics_score": 78, 
+        "genres": [
+            "Art House & International", 
+            "Comedy"
+        ], 
+        "audience_score": 49, 
+        "id": "770677563", 
+        "title": "Dai-Nipponjin (Big Man Japan)"
+    }, 
+    "Memory": {
+        "critics_score": 84, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 76, 
+        "id": "5623", 
+        "title": "De Zaak Alzheimer (The Memory of a Killer) (The Alzheimer Case)"
+    }, 
+    "Weekend At Bernie's": {
+        "critics_score": 48, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 56, 
+        "id": "12649", 
+        "title": "Weekend at Bernie's"
+    }, 
+    "Jurassic Park III": {
+        "critics_score": 49, 
+        "genres": [
+            "Action & Adventure", 
+            "Mystery & Suspense", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 47, 
+        "id": "10462", 
+        "title": "Jurassic Park III"
+    }, 
+    "Happy Gilmore": {
+        "critics_score": 59, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 83, 
+        "id": "11221", 
+        "title": "Happy Gilmore"
+    }, 
+    "Sea of Fear": {
+        "critics_score": -1, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 23, 
+        "id": "563672250", 
+        "title": "Sea of Fear"
+    }, 
+    "Transporter 3": {
+        "critics_score": 36, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 58, 
+        "id": "770734596", 
+        "title": "Transporter 3"
+    }, 
+    "The Temple of Doom": {
+        "critics_score": 85, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 80, 
+        "id": "23530", 
+        "title": "Indiana Jones and the Temple of Doom"
+    }, 
+    "A Clockwork Orange": {
+        "critics_score": 89, 
+        "genres": [
+            "Drama", 
+            "Mystery & Suspense", 
+            "Classics", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 92, 
+        "id": "15694", 
+        "title": "A Clockwork Orange"
+    }, 
+    "Amadeus": {
+        "critics_score": 96, 
+        "genres": [
+            "Drama", 
+            "Musical & Performing Arts", 
+            "Comedy"
+        ], 
+        "audience_score": 94, 
+        "id": "10286", 
+        "title": "Amadeus"
+    }, 
+    "The Machinist": {
+        "critics_score": 76, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 82, 
+        "id": "13015", 
+        "title": "The Machinist"
+    }, 
+    "Runaway Jury": {
+        "critics_score": 72, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 72, 
+        "id": "10917", 
+        "title": "Runaway Jury"
+    }, 
+    "Faceoff": {
+        "critics_score": 94, 
+        "genres": [
+            "Action & Adventure"
+        ], 
+        "audience_score": 81, 
+        "id": "13172", 
+        "title": "Face/Off"
+    }, 
+    "Quarantine": {
+        "critics_score": 58, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 46, 
+        "id": "770684110", 
+        "title": "Quarantine"
+    }, 
+    "Land of the Dead": {
+        "critics_score": 74, 
+        "genres": [
+            "Drama", 
+            "Action & Adventure", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 56, 
+        "id": "1785", 
+        "title": "Land of the Dead"
+    }, 
+    "Star Wars Episode III Revenge of the Sith": {
+        "critics_score": 80, 
+        "genres": [
+            "Action & Adventure", 
+            "Science Fiction & Fantasy"
+        ], 
+        "audience_score": 55, 
+        "id": "9", 
+        "title": "Star Wars: Episode III - Revenge of the Sith 3D"
+    }, 
+    "The Wrestler": {
+        "critics_score": 98, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 86, 
+        "id": "770680582", 
+        "title": "The Wrestler"
+    }, 
+    "Fatal Attraction": {
+        "critics_score": 78, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Drama"
+        ], 
+        "audience_score": 68, 
+        "id": "13251", 
+        "title": "Fatal Attraction"
+    }, 
+    "Broadcast News": {
+        "critics_score": 98, 
+        "genres": [
+            "Drama", 
+            "Comedy"
+        ], 
+        "audience_score": 73, 
+        "id": "13349", 
+        "title": "Broadcast News"
+    }, 
+    "500 Days of Summer": {
+        "critics_score": 87, 
+        "genres": [
+            "Drama", 
+            "Romance", 
+            "Comedy"
+        ], 
+        "audience_score": 81, 
+        "id": "770801801", 
+        "title": "500 Days of Summer"
+    }, 
+    "The Wolfman": {
+        "critics_score": 35, 
+        "genres": [
+            "Mystery & Suspense", 
+            "Horror"
+        ], 
+        "audience_score": 38, 
+        "id": "770768653", 
+        "title": "The Wolfman"
+    }, 
+    "Untraceable": {
+        "critics_score": 16, 
+        "genres": [
+            "Drama", 
+            "Horror", 
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 56, 
+        "id": "770671782", 
+        "title": "Untraceable"
+    }, 
+    "Let Me In": {
+        "critics_score": 72, 
+        "genres": [
+            "Documentary", 
+            "Musical & Performing Arts", 
+            "Comedy"
+        ], 
+        "audience_score": 95, 
+        "id": "771324610", 
+        "title": "Kevin Hart: Let Me Explain"
+    }, 
+    "TakeOut": {
+        "critics_score": -1, 
+        "genres": [
+            "Drama"
+        ], 
+        "audience_score": 17, 
+        "id": "160595358", 
+        "title": "Take-out"
+    }, 
+    "School of Rock": {
+        "critics_score": 92, 
+        "genres": [
+            "Comedy"
+        ], 
+        "audience_score": 63, 
+        "id": "10315", 
+        "title": "School of Rock"
+    }, 
+    "Buried": {
+        "critics_score": 87, 
+        "genres": [
+            "Mystery & Suspense"
+        ], 
+        "audience_score": 62, 
+        "id": "770819772", 
+        "title": "Buried"
+    }
+}
