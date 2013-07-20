@@ -71,7 +71,7 @@ def sort_movies(movie_dict, genre='All',
                             key=lambda (k, v): v[score_type],
                             reverse=True):
             if actor.lower() in [a.lower() for a in movie[1]['actors']]:
-                matching_movies.append((movie[1]['title'],
+                matching_movies.append((movie[1],
                                         movie[1][score_type]))
 
         print '{0}\n{1}\n{0}'.format(sep, actor)
@@ -106,25 +106,25 @@ def sort_movies(movie_dict, genre='All',
                             key=lambda (k, v): v[score_type],
                             reverse=True):
             if action_and_adventure_str in movie[1]['genres']:
-                action_and_adventure.append((movie[1]['title'],
+                action_and_adventure.append((movie[0],
                                              movie[1][score_type]))
             if animation_str in movie[1]['genres']:
-                animation.append((movie[1]['title'], movie[1][score_type]))
+                animation.append((movie[0], movie[1][score_type]))
             if comedy_str in movie[1]['genres']:
-                comedy.append((movie[1]['title'], movie[1][score_type]))
+                comedy.append((movie[0], movie[1][score_type]))
             if documentary_str in movie[1]['genres']:
-                documentary.append((movie[1]['title'], movie[1][score_type]))
+                documentary.append((movie[0], movie[1][score_type]))
             if drama_str in movie[1]['genres']:
-                drama.append((movie[1]['title'], movie[1][score_type]))
+                drama.append((movie[0], movie[1][score_type]))
             if horror_str in movie[1]['genres']:
-                horror.append((movie[1]['title'], movie[1][score_type]))
+                horror.append((movie[0], movie[1][score_type]))
             if mystery_and_suspense_str in movie[1]['genres']:
-                mystery_and_suspense.append((movie[1]['title'],
+                mystery_and_suspense.append((movie[0],
                                              movie[1][score_type]))
             if romance_str in movie[1]['genres']:
-                romance.append((movie[1]['title'], movie[1][score_type]))
+                romance.append((movie[0], movie[1][score_type]))
             if scifi_str in movie[1]['genres']:
-                scifi.append((movie[1]['title'], movie[1][score_type]))
+                scifi.append((movie[0], movie[1][score_type]))
 
         print '{0}\n{1}\n{0}'.format(sep, action_and_adventure_str)
         for tup in action_and_adventure:
@@ -167,7 +167,7 @@ def sort_movies(movie_dict, genre='All',
                             key=lambda (k, v): v[score_type],
                             reverse=True):
             if genre in movie[1]['genres']:
-                matching_movies.append((movie[1]['title'],
+                matching_movies.append((movie[0],
                                         movie[1][score_type]))
 
         print '{0}\n{1}\n{0}'.format(sep, genre)
@@ -218,11 +218,12 @@ def build_dict(filepath='test_movies.txt', rebuild=False):
             critics_score = data['movies'][0]['ratings']['critics_score']
             audience_score = data['movies'][0]['ratings']['audience_score']
             actors = [a['name'] for a in data['movies'][0]['abridged_cast']]
-            movie_dict[movie] = {'id': movie_id,
-                                 'title': title,
+            rt_link = data['movies'][0]['links']['alternate']
+            movie_dict[title] = {'id': movie_id,
                                  'critics_score': critics_score,
                                  'audience_score': audience_score,
-                                 'actors': actors}
+                                 'actors': actors,
+                                 'rt_link': rt_link}
         except (IndexError, urllib2.URLError):
             print 'Error fetching data for {}'.format(movie)
             continue
@@ -235,11 +236,26 @@ def build_dict(filepath='test_movies.txt', rebuild=False):
                    '{0}.json?apikey={1}'.format(movie_id, key))
             response = urllib2.urlopen(url)
             data = json.load(response)
+            print data
+            raw_input()
             genres = data['genres']
-            movie_dict[movie]['genres'] = genres
+            movie_dict[title]['genres'] = genres
         except (IndexError, urllib2.URLError):
             print 'Error fetching genre for {}'.format(movie)
-            movie_dict[movie]['genres'] = []
+            movie_dict[title]['genres'] = []
+
+        try:
+            url = ('http://api.rottentomatoes.com/api/'
+                   'public/v1.0/movies/'
+                   '{0}/similar.json?apikey={1}'.format(movie_id, key))
+            response = urllib2.urlopen(url)
+            data = json.load(response)
+            similar = [a['title'] for a in data['movies']]  
+            movie_dict[title]['similar'] = similar
+        except (IndexError, urllib2.URLError):
+            print 'Error fetching similar movies for {}'.format(movie)
+            movie_dict[title]['similar'] = []
+       
 
     # Dump our updated movie dictionary to a .json file.
     with open('movie_data.json', write_flag) as data_file:
