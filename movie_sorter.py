@@ -201,7 +201,7 @@ def build_dict(filepath='test_movies.txt', rebuild=False):
         print 'Error: Could not open {}'.format(filepath)
 
     movies = [m for m in movies if m not in movie_dict]
-    key = 'jjzq2ekfmxjzymr6qqc3x47e'
+    key = os.getenv('RT_KEY')
 
     # Build a dictionary of titles, scores, and ids.
     for num, movie in enumerate(movies):
